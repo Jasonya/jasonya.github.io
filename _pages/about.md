@@ -40,14 +40,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/figurev5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/main_figurev5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753v4)
 
 Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
-[**Paper**](https://arxiv.org/abs/2505.00753v4) | [**Code**](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) | [**Project**](https://scholar.google.com.tw/citations?view_op=view_citation&hl=en&user=OQY7yd8AAAAJ&citation_for_view=OQY7yd8AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='OQY7yd8AAAAJ:UeHWp8X0CEIC'></span></strong>
+[![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) <strong><span class='show_paper_citations' data='OQY7yd8AAAAJ:UeHWp8X0CEIC'></span></strong>
 - A comprehensive survey on LLM-based human-agent collaboration and interaction systems.
 </div>
 </div>
