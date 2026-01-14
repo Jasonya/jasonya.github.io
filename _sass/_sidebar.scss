@@ -250,6 +250,12 @@
     &:hover {
       text-decoration: underline;
     }
+
+    img {
+      height: 1.2em;
+      width: auto;
+      vertical-align: middle;
+    }
   }
 }
 
@@ -262,6 +268,11 @@
     text-decoration: none;
     &:hover {
       text-decoration: underline;
+    }
+    img {
+      height: 1em;
+      width: auto;
+      vertical-align: middle;
     }
   }
   @include breakpoint($large) {
