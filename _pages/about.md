@@ -47,8 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
-[![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)<br>
-A comprehensive, structured overview of LLM-based human-agent systems (LLM-HAS), where humans provide information, feedback, or control to improve agent reliability, safety, and real-world performance.
+A comprehensive, structured overview of LLM-based human-agent systems (LLM-HAS), where humans provide information, feedback, or control to improve agent reliability, safety, and real-world performance. [![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
 </div>
 
