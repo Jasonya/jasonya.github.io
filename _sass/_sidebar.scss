@@ -252,9 +252,10 @@
     }
 
     img {
-      height: 1.2em;
-      width: auto;
+      height: 0.9em !important;
+      width: auto !important;
       vertical-align: middle;
+      max-height: 0.9em !important;
     }
   }
 }
@@ -270,9 +271,10 @@
       text-decoration: underline;
     }
     img {
-      height: 1em;
-      width: auto;
+      height: 0.8em !important;
+      width: auto !important;
       vertical-align: middle;
+      max-height: 0.8em !important;
     }
   }
   @include breakpoint($large) {
