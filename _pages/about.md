@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
-[![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) <strong><span class='show_paper_citations' data='OQY7yd8AAAAJ:UeHWp8X0CEIC'></span></strong>
+[![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 - A comprehensive survey on LLM-based human-agent collaboration and interaction systems.
 </div>
 </div>
