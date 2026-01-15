@@ -52,7 +52,7 @@ Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang N
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EMNLP 2025</div><img src='images/madiave_main.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards agentic rag with deep reasoning: A survey of rag-reasoning systems in llms](https://aclanthology.org/2025.findings-emnlp.648.pdf)
@@ -63,7 +63,16 @@ Yangning Li, Weizhi Zhang, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Framework_final.png' alt="sym" ></div></div>
+<div class='paper-box-text' markdown="1">
 
+[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
+
+Weizhi Zhang, Yangning Li, **Wei-Chieh Huang**, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
+
+[![](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
