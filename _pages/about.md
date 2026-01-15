@@ -10,9 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science at the University of Illinois Chicago (UIC). My research focuses on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**. I am particularly interested in building intelligent agent systems that can reason, collaborate, and interact effectively with humans while maintaining consistent performance across long-horizon tasks.
-
-**I am actively looking for Research Internship opportunities in Summer 2026. Feel free to reach out!**
+I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), under the supervision of Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). My research focuses on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**. I am particularly interested in building intelligent agent systems that can reason, collaborate, and interact effectively with humans while maintaining consistent performance across long-horizon tasks.
 
 
 # 🔥 News
@@ -21,7 +19,7 @@ I am a Ph.D. student in Computer Science at the University of Illinois Chicago (
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EACL 2026</div><img src='images/madiave_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EACL 2026</div><img src='images/madiave_main.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](https://arxiv.org/abs/2510.05611)
@@ -30,7 +28,7 @@ I am a Ph.D. student in Computer Science at the University of Illinois Chicago (
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/deepresearchguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/deepresearchguard.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
@@ -41,7 +39,7 @@ for Safety](https://arxiv.org/abs/2510.10994)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/main_figurev5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/main_figurev5.jpg' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753v4)
