@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "<span style='color: #e74c3c; font-weight: bold;'>I am actively looking for Research Internship opportunities in Summer 2026.</span><br>Feel free to reach out!"
+description              : ""
 repository               : "jasonya/jasonya.github.io"
 google_scholar_stats_use_cdn : true
 

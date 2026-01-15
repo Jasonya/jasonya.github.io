@@ -12,6 +12,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), under the supervision of Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). My research focuses on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**. I am particularly interested in building intelligent agent systems that can reason, collaborate, and interact effectively with humans while maintaining consistent performance across long-horizon tasks.
 
+<span style="color: #e74c3c; font-weight: bold;">I am actively looking for Research Internship opportunities in Summer 2026. Feel free to reach out!</span>
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" is accepted to EACL 2026 Findings! 
