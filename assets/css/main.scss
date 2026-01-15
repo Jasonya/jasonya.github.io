@@ -73,13 +73,22 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             min-width: 200px;
             max-width: 40%;
             height: 150px;
             order: 1;
+            img {
+                max-width: 100%;
+                max-height: 100%;
+                width: auto;
+                height: auto;
+                object-fit: contain;
+            }
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;

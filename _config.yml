@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "CS Ph.D. in [BDSC](https://bdsc-uic.github.io/) @UIC"
+description              : "CS Ph.D. in <a href='https://bdsc-uic.github.io/'>BDSC</a> @UIC"
 repository               : "jasonya/jasonya.github.io"
 google_scholar_stats_use_cdn : true
 
