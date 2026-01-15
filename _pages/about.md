@@ -12,6 +12,8 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Illinois Chicago (UIC). My research focuses on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**. I am particularly interested in building intelligent agent systems that can reason, collaborate, and interact effectively with humans while maintaining consistent performance across long-horizon tasks.
 
+**I am actively looking for Research Internship opportunities in Summer 2026. Feel free to reach out!**
+
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" is accepted to EACL 2026 Findings! 
@@ -26,6 +28,18 @@ I am a Ph.D. student in Computer Science at the University of Illinois Chicago (
 
 **Wei-Chieh Huang**, Cornelia Caragea
 </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/deepresearchguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
+for Safety](https://arxiv.org/abs/2510.10994)
+
+**Wei-Chieh Huang**, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Renhe Jiang, Philip S. Yu
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/main_figurev5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,6 +51,7 @@ Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang N
 [![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
 </div>
+
 
 
 
@@ -54,7 +69,7 @@ Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang N
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💼 Work Experience
-- *2022.01 - 2023.12*, Data ScientistI, GEICO, Chevy Chase, MD.
+- *2022.01 - 2023.12*, Data Scientist, GEICO, Chevy Chase, MD.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- I am actively looking for **Research Internship** opportunities in Summer 2026. Feel free to reach out!
