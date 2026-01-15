@@ -19,7 +19,7 @@ I am a Ph.D. student in Computer Science at the University of Illinois Chicago (
 - *2026.01*: &nbsp;🎉🎉 Our paper "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" is accepted to EACL 2026 Findings! 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EACL 2026</div><img src='images/madiave_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
