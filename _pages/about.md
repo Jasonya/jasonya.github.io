@@ -52,14 +52,14 @@ Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang N
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/intro2.jpg' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards agentic rag with deep reasoning: A survey of rag-reasoning systems in llms](https://aclanthology.org/2025.findings-emnlp.648.pdf)
 
 Yangning Li, Weizhi Zhang, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
 
-[![](https://github.com/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
+[![](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 </div>
 </div>
 
