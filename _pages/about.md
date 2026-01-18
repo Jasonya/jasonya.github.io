@@ -52,7 +52,7 @@ Henry Peng Zou, **Wei-Chieh Huang**, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang N
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EMNLP 2025</div><img src='images/madiave_main.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EMNLP 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards agentic rag with deep reasoning: A survey of rag-reasoning systems in llms](https://aclanthology.org/2025.findings-emnlp.648.pdf)
