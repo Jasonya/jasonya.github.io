@@ -15,6 +15,11 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 <span style="color: #e74c3c; font-weight: bold;">I am actively looking for Research Internship opportunities in Summer 2026. Feel free to reach out!</span>
 
 # 🔥 News
+
+- *2026.04*: &nbsp;🎉🎉 Our paper "DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" is accepted to ACL 2026 Main!
+- *2026.01*: &nbsp;🎉🎉 Serving as a reviewer for ICML 2026.
+- *2026.01*: &nbsp;🎉🎉 Serving as a reviewer for ACL 2026 Industry Track.
+- *2026.01*: &nbsp;🎉🎉 Serving as a reviewer for ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Our paper "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" is accepted to EACL 2026 Findings! 
 
 
@@ -29,7 +34,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/deepresearchguard.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/deepresearchguard.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
