@@ -106,4 +106,195 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 3px;
+    font-weight: 700;
+    letter-spacing: .02em;
+    box-shadow: 0 2px 6px rgba(16, 24, 40, .22);
+}
+
+/* ==========================================================================
+   Homepage polish — callout, news list, publication list
+   ========================================================================== */
+
+$hp-accent      : #00369f;
+$hp-ink         : #1f2937;
+$hp-muted       : #6b7280;
+$hp-hairline    : rgba(16, 24, 40, .07);
+$hp-chip-bg     : #eef2fb;
+
+/* --- section headings --- */
+.page__content h1 {
+    padding-bottom: .3em;
+    border-bottom: 2px solid rgba(0, 54, 159, .12);
+}
+
+/* --- "looking for internship" callout --- */
+.hp-callout {
+    margin: 1.2em 0 .4em;
+    padding: .75em 1.1em;
+    border-left: 4px solid #e74c3c;
+    border-radius: 0 8px 8px 0;
+    background: #fdf3f2;
+    color: #a8352a;
+    font-size: .95em;
+    line-height: 1.55;
+
+    b { color: #8f2b21; }
+}
+
+/* --- news --- */
+.news-list {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        padding: .5em 0;
+        border-bottom: 1px solid $hp-hairline;
+        line-height: 1.6;
+
+        &:last-child { border-bottom: 0; }
+    }
+}
+
+.news-date {
+    display: inline-block;
+    min-width: 5.4em;
+    margin-right: .55em;
+    padding: .1em .5em;
+    border-radius: 999px;
+    background: $hp-chip-bg;
+    color: $hp-accent;
+    font-size: .76em;
+    font-weight: 700;
+    letter-spacing: .03em;
+    text-align: center;
+    vertical-align: 1px;
+}
+
+/* --- full publication list --- */
+.pub-year {
+    display: flex;
+    align-items: center;
+    margin: 1.8em 0 .4em;
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: .06em;
+    color: $hp-accent;
+
+    &::after {
+        content: "";
+        flex: 1 1 auto;
+        height: 1px;
+        margin-left: .8em;
+        background: $hp-hairline;
+    }
+}
+
+.pub-item {
+    position: relative;
+    padding: .75em 0 .75em 1.15em;
+    border-bottom: 1px solid $hp-hairline;
+
+    &:last-child { border-bottom: 0; }
+
+    &::before {
+        content: "";
+        position: absolute;
+        left: 1px;
+        top: 1.25em;
+        width: 5px;
+        height: 5px;
+        border-radius: 50%;
+        background: #c9cedb;
+        transition: background .18s ease, transform .18s ease;
+    }
+
+    &:hover::before {
+        background: $hp-accent;
+        transform: scale(1.5);
+    }
+}
+
+.pub-title {
+    font-weight: 600;
+    line-height: 1.45;
+    color: $hp-ink !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid transparent;
+    transition: color .15s ease, border-color .15s ease;
+
+    &:hover {
+        color: $hp-accent !important;
+        border-bottom-color: rgba(0, 54, 159, .35);
+    }
+}
+
+.pub-authors {
+    margin-top: .3em;
+    font-size: .86em;
+    line-height: 1.6;
+    color: $hp-muted;
+
+    b { color: $hp-ink; font-weight: 700; }
+    sup { color: $hp-accent; }
+}
+
+.pub-meta {
+    margin-top: .45em;
+}
+
+.pub-tag {
+    display: inline-block;
+    margin-right: .35em;
+    padding: .14em .6em;
+    border: 1px solid rgba(0, 54, 159, .16);
+    border-radius: 4px;
+    background: $hp-chip-bg;
+    color: $hp-accent;
+    font-size: .74em;
+    font-weight: 700;
+    letter-spacing: .03em;
+    white-space: nowrap;
+}
+
+.pub-tag--preprint {
+    border-color: rgba(16, 24, 40, .1);
+    background: #f4f5f7;
+    color: #71767f;
+}
+
+.pub-tag--workshop {
+    border-color: rgba(30, 122, 69, .18);
+    background: #edf9f1;
+    color: #1e7a45;
+}
+
+.pub-tag--award {
+    border-color: rgba(193, 18, 31, .2);
+    background: #fdf1f2;
+    color: #c1121f;
+}
+
+/* --- selected publication cards --- */
+.paper-box {
+    border-bottom: 1px solid $hp-hairline;
+    border-radius: 8px;
+    padding: 1.7em .8em;
+    transition: background .2s ease;
+
+    &:hover { background: rgba(0, 54, 159, .02); }
+
+    .paper-box-image img {
+        border-radius: 5px;
+        box-shadow: 0 4px 14px rgba(16, 24, 40, .16);
+        transition: transform .2s ease, box-shadow .2s ease;
+    }
+
+    &:hover .paper-box-image img {
+        transform: translateY(-2px);
+        box-shadow: 0 9px 24px rgba(16, 24, 40, .22);
+    }
 }
