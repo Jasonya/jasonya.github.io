@@ -32,7 +32,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 
 # 📝 Selected Publications 
 
-<sup>&ast;</sup> denotes equal contribution.
+<sup>&#42;</sup> denotes equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #d90429">TMLR 2026</div><img src='images/agent_memory.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,7 +72,7 @@ for Safety](https://arxiv.org/abs/2510.10994)
 
 [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753)
 
-Henry Peng Zou<sup>&ast;</sup>, **Wei-Chieh Huang**<sup>&ast;</sup>, Yaozu Wu<sup>&ast;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
+Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
 [![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
@@ -83,7 +83,7 @@ Henry Peng Zou<sup>&ast;</sup>, **Wei-Chieh Huang**<sup>&ast;</sup>, Yaozu Wu<su
 
 [A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
 
-Henry Peng Zou<sup>&ast;</sup>, **Wei-Chieh Huang**<sup>&ast;</sup>, Yaozu Wu<sup>&ast;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu
+Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu
 
 </div>
 </div>
@@ -93,7 +93,7 @@ Henry Peng Zou<sup>&ast;</sup>, **Wei-Chieh Huang**<sup>&ast;</sup>, Yaozu Wu<su
 
 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648.pdf)
 
-Yangning Li<sup>&ast;</sup>, Weizhi Zhang<sup>&ast;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
+Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
 
 [![](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 </div>
@@ -104,7 +104,7 @@ Yangning Li<sup>&ast;</sup>, Weizhi Zhang<sup>&ast;</sup>, Yuyao Yang, **Wei-Chi
 
 [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
 
-Weizhi Zhang<sup>&ast;</sup>, Yangning Li<sup>&ast;</sup>, **Wei-Chieh Huang**<sup>&ast;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
+Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
 
 [![](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
 </div>
@@ -142,7 +142,7 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2505.00753">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</a>
-  <div class="pub-authors">Henry Peng Zou<sup>&ast;</sup>, <b>Wei-Chieh Huang</b><sup>&ast;</sup>, Yaozu Wu<sup>&ast;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, <i>et al.</i></div>
+  <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, <i>et al.</i></div>
   <div class="pub-meta"><span class="pub-tag">ACL 2026 Findings</span></div>
 </div>
 
@@ -228,7 +228,7 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 
 <div class="pub-item">
   <a class="pub-title" href="https://aclanthology.org/2025.findings-emnlp.648.pdf">Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs</a>
-  <div class="pub-authors">Yangning Li<sup>&ast;</sup>, Weizhi Zhang<sup>&ast;</sup>, Yuyao Yang, <b>Wei-Chieh Huang</b>, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, <i>et al.</i></div>
+  <div class="pub-authors">Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, <b>Wei-Chieh Huang</b>, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, <i>et al.</i></div>
   <div class="pub-meta"><span class="pub-tag">EMNLP 2025 Findings</span></div>
 </div>
 
@@ -240,13 +240,13 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2506.18959">From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents</a>
-  <div class="pub-authors">Weizhi Zhang<sup>&ast;</sup>, Yangning Li<sup>&ast;</sup>, <b>Wei-Chieh Huang</b><sup>&ast;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, <i>et al.</i></div>
+  <div class="pub-authors">Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, <i>et al.</i></div>
   <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv preprint</span></div>
 </div>
 
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2506.09420">A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy</a>
-  <div class="pub-authors">Henry Peng Zou<sup>&ast;</sup>, <b>Wei-Chieh Huang</b><sup>&ast;</sup>, Yaozu Wu<sup>&ast;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, <i>et al.</i></div>
+  <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, <i>et al.</i></div>
   <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv preprint</span></div>
 </div>
 
