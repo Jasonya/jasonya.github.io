@@ -233,6 +233,12 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 </div>
 
 <div class="pub-item">
+  <a class="pub-title" href="https://aclanthology.org/2025.findings-emnlp.683/">Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions</a>
+  <div class="pub-authors">Yaozu Wu, Dongyuan Li, Yankai Chen, Renhe Jiang, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag">EMNLP 2025 Findings</span></div>
+</div>
+
+<div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2509.23614">PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents</a>
   <div class="pub-authors">Yaozu Wu, Jizhou Guo, Dongyuan Li, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yankai Chen, Zhen Wang, Weizhi Zhang, Yangning Li, Meng Zhang, Renhe Jiang, Philip S. Yu</div>
   <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv preprint</span></div>
@@ -247,12 +253,6 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2506.09420">A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy</a>
   <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, <i>et al.</i></div>
-  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv preprint</span></div>
-</div>
-
-<div class="pub-item">
-  <a class="pub-title" href="https://arxiv.org/abs/2502.16804">Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances</a>
-  <div class="pub-authors">Yaozu Wu, Dongyuan Li, Yankai Chen, Renhe Jiang, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu</div>
   <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv preprint</span></div>
 </div>
 
