@@ -34,7 +34,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 
 <sup>&#42;</sup> denotes equal contribution.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #d90429">TMLR 2026</div><img src='images/agent_memory.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents](https://arxiv.org/abs/2602.06052)
@@ -47,7 +47,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EACL 2026</div><img src='images/madiave_main.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026</div><img src='images/madiave_main.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](https://arxiv.org/abs/2510.05611)
@@ -78,7 +78,7 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/human_agent_systems.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/human_agent_systems.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
@@ -88,7 +88,7 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #27ae60">EMNLP 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648.pdf)
@@ -99,7 +99,7 @@ Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Framework_final.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/Framework_final.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
