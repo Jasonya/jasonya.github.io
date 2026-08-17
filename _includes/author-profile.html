@@ -117,7 +117,7 @@
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href='{{ author.googlescholar }}' aria-hidden="true" tabindex="-1"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=edf1f9&color=1a3f8f&style=flat&label=citations" alt="Google Scholar citation count" style="height: 1.5em; width: auto; vertical-align: middle;"></a></li>
+        <li><a href='{{ author.googlescholar }}' aria-hidden="true" tabindex="-1"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citation count" style="height: 1.5em; width: auto; vertical-align: middle;"></a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
@@ -215,7 +215,7 @@
         <a href="{{ author.orcid }}" aria-label="ORCID"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
       {% if author.googlescholar %}
-        <a href='{{ author.googlescholar }}' aria-label="Google Scholar"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=edf1f9&color=1a3f8f&style=flat&label=citations" alt="Google Scholar citation count" style="height: 1.5em; width: auto; vertical-align: middle;"></a>
+        <a href='{{ author.googlescholar }}' aria-label="Google Scholar"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citation count" style="height: 1.5em; width: auto; vertical-align: middle;"></a>
       {% endif %}
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>

@@ -14,7 +14,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 
 <div class="hp-callout">I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
 
-<h2 id="-news">News</h2>
+<h1 id="-news">News</h1>
 
 <div class="news-list" markdown="1">
 
@@ -28,7 +28,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 </div>
 
 
-<h2 id="-selected-publications">Selected Publications</h2>
+<h1 id="-selected-publications">Selected Publications</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +39,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 
 <span class="pub-honor">Survey Certification</span>
 
-[![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
+[![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=social&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
 </div>
 </div>
 
@@ -70,7 +70,7 @@ for Safety](https://arxiv.org/abs/2510.10994)
 
 Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
-[![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+[![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 
 Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
 
-[![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
+[![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 </div>
 </div>
 
@@ -102,11 +102,11 @@ Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chi
 
 Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
 
-[![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
+[![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
 </div>
 </div>
 
-<h2 id="-full-publication-list">All Publications</h2>
+<h1 id="-full-publication-list">All Publications</h1>
 
 A complete and up-to-date list is available on my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile.
 
@@ -258,10 +258,10 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 
 </div>
 
-<h2 id="-educations">Education</h2>
+<h1 id="-educations">Education</h1>
 - *2024.09 - present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US.
 - *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
 - *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 
-<h2 id="-work-experience">Work Experience</h2>
+<h1 id="-work-experience">Work Experience</h1>
 - *2022.01 - 2023.12*, Data Scientist, GEICO, Chevy Chase, MD.
