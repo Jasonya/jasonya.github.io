@@ -12,9 +12,9 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), under the supervision of Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). I work on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**: what an agent should carry across long-horizon tasks, and where a human belongs in the loop. Recent work includes a survey of agent memory for self-evolving, long-horizon agents (TMLR 2026, Survey Certification) and a study of open-domain evaluation and multi-stage guardrails for deep research (ACL 2026 Main).
 
-<div class="hp-callout">I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
+<div class="hp-callout">🔎 I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
 
-<h1 id="-news">News</h1>
+<h1 id="-news">🔥 News</h1>
 
 <div class="news-list" markdown="1">
 
@@ -28,7 +28,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 </div>
 
 
-<h1 id="-selected-publications">Selected Publications</h1>
+<h1 id="-selected-publications">📝 Selected Publications</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +37,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 
 **Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu
 
-<span class="pub-honor">Survey Certification</span>
+<span class="pub-honor">🏆 Survey Certification</span>
 
 [![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=social&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
 </div>
@@ -106,7 +106,7 @@ Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<s
 </div>
 </div>
 
-<h1 id="-full-publication-list">All Publications</h1>
+<h1 id="-full-publication-list">📚 All Publications</h1>
 
 A complete and up-to-date list is available on my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile.
 
@@ -117,7 +117,7 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a>
   <div class="pub-authors"><b>Wei-Chieh Huang</b><sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i></div>
-  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">Survey Certification</span></div>
+  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">🏆 Survey Certification</span></div>
 </div>
 
 <div class="pub-item">
@@ -258,10 +258,10 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 
 </div>
 
-<h1 id="-educations">Education</h1>
+<h1 id="-educations">📖 Education</h1>
 - *2024.09 - present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US.
 - *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
 - *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 
-<h1 id="-work-experience">Work Experience</h1>
+<h1 id="-work-experience">💼 Work Experience</h1>
 - *2022.01 - 2023.12*, Data Scientist, GEICO, Chevy Chase, MD.
