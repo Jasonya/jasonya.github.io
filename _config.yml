@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage"
-description              : ""
+title                    : "Wei-Chieh Huang"
+description              : "Ph.D. student at the University of Illinois Chicago working on LLM-based agents, human-agent collaboration, and agent memory."
 repository               : "jasonya/jasonya.github.io"
 google_scholar_stats_use_cdn : true
 

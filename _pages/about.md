@@ -8,44 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<div class='anchor' id='about-me'></div>
 
-I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), under the supervision of Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). My research focuses on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**. I am particularly interested in building intelligent agent systems that can reason, collaborate, and interact effectively with humans while maintaining consistent performance across long-horizon tasks.
+I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), under the supervision of Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). I work on **LLM-based Agents**, **Human-Agent Collaboration**, and **Agent Memory**: what an agent should carry across long-horizon tasks, and where a human belongs in the loop. Recent work includes a survey of agent memory for self-evolving, long-horizon agents (TMLR 2026, Survey Certification) and a study of open-domain evaluation and multi-stage guardrails for deep research (ACL 2026 Main).
 
-<div class="hp-callout">🔎 I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
+<div class="hp-callout">I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
 
-# 🔥 News
+<h2 id="-news">News</h2>
 
 <div class="news-list" markdown="1">
 
-- <span class="news-date">2026.08</span> 🏆🎉 Our survey "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents" is accepted to **TMLR** with **Survey Certification**!
-- <span class="news-date">2026.05</span> 🎉🎉 Our paper "LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" is accepted to ACL 2026 Findings!
-- <span class="news-date">2026.04</span> 🎉🎉 Our paper "DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" is accepted to ACL 2026 Main!
-- <span class="news-date">2026.01</span> 🎉🎉 Serving as a reviewer for ICML 2026.
-- <span class="news-date">2026.01</span> 🎉🎉 Serving as a reviewer for ACL 2026 Industry Track.
-- <span class="news-date">2026.01</span> 🎉🎉 Serving as a reviewer for ACL 2026.
-- <span class="news-date">2026.01</span> 🎉🎉 Our paper "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" is accepted to EACL 2026 Findings!
-- <span class="news-date">2026.01</span> 🎉🎉 Our paper "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback" is accepted to ICLR 2026!
+- <span class="news-date">2026.08</span><span class="news-body">"A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents" accepted to **TMLR**, with **Survey Certification**.</span>
+- <span class="news-date">2026.05</span><span class="news-body">"LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" accepted to ACL 2026 Findings.</span>
+- <span class="news-date">2026.04</span><span class="news-body">"Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" accepted to ACL 2026 Main.</span>
+- <span class="news-date">2026.01</span><span class="news-body">"MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" accepted to EACL 2026 Findings.</span>
+- <span class="news-date">2026.01</span><span class="news-body">"RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback" accepted to ICLR 2026.</span>
+- <span class="news-date">2026.01</span><span class="news-body">Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</span>
 
 </div>
 
 
-# 📝 Selected Publications 
+<h2 id="-selected-publications">Selected Publications</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents](https://arxiv.org/abs/2602.06052)
 
 **Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu
 
-🏆 **Survey Certification**
+<span class="pub-honor">Survey Certification</span>
 
-[![](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=social&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
+[![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026</div><img src='images/madiave_main.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026 Findings</div><img src='images/madiave_main.png' alt="Multi-agent debate pipeline for implicit attribute value extraction, repeating selection and debate over N rounds" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](https://arxiv.org/abs/2510.05611)
@@ -54,7 +52,7 @@ I am a Ph.D. student in Computer Science in [BDSC lab](https://bdsc-uic.github.i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/deepresearchguard.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/deepresearchguard.png' alt="Deep research pipeline annotated with the general stages of input, plan, search, and output, and the guardrail stages added at each" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
@@ -65,18 +63,18 @@ for Safety](https://arxiv.org/abs/2510.10994)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/main_figurev5.jpg' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/main_figurev5.jpg' alt="Overview of LLM-based human-agent systems, showing where human feedback enters the collaboration loop" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753)
 
 Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
 
-[![](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+[![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/human_agent_systems.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/human_agent_systems.png' alt="Side-by-side comparison of autonomous agent systems and human-agent systems" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
@@ -86,33 +84,29 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/intro2.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Findings</div><img src='images/intro2.png' alt="" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648.pdf)
 
 Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
 
-[![](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
+[![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/Framework_final.png' alt="sym" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">arXiv 2025</div><img src='images/Framework_final.png' alt="" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
 
 Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
 
-[![](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
+[![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=flat&color=1a3f8f&labelColor=edf1f9&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📚 Full Publication List
+<h2 id="-full-publication-list">All Publications</h2>
 
 A complete and up-to-date list is available on my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile.
 
@@ -123,7 +117,7 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 <div class="pub-item">
   <a class="pub-title" href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a>
   <div class="pub-authors"><b>Wei-Chieh Huang</b><sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i></div>
-  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">🏆 Survey Certification</span></div>
+  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">Survey Certification</span></div>
 </div>
 
 <div class="pub-item">
@@ -259,22 +253,15 @@ A complete and up-to-date list is available on my [Google Scholar](https://schol
 <div class="pub-item">
   <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S2666792423000057">Impacts of battery energy storage technologies and renewable integration on the energy transition in the New York State</a>
   <div class="pub-authors"><b>Wei-Chieh Huang</b>, Qi Zhang, Fengqi You</div>
-  <div class="pub-meta"><span class="pub-tag">Advances in Applied Energy 9, 100126</span></div>
+  <div class="pub-meta"><span class="pub-tag">Advances in Applied Energy</span></div>
 </div>
 
 </div>
 
-# 📖 Educations
+<h2 id="-educations">Education</h2>
 - *2024.09 - present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US.
 - *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
 - *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💼 Work Experience
+<h2 id="-work-experience">Work Experience</h2>
 - *2022.01 - 2023.12*, Data Scientist, GEICO, Chevy Chase, MD.
-
-# 💻 Internships
-- I am actively looking for **Research Internship** opportunities in Summer 2027. Feel free to reach out!
