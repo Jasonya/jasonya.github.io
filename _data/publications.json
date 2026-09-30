@@ -1,0 +1,342 @@
+[
+  {
+    "id": "huang2026harnessmemory",
+    "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+    "url": "https://arxiv.org/abs/2608.15008",
+    "authors": "<b>Wei-Chieh Huang</b>, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan",
+    "venue": "NeurIPS 2026 (ED Track)",
+    "year": "2026",
+    "topics": [
+      "memory",
+      "evaluation"
+    ],
+    "award": ""
+  },
+  {
+    "id": "huang2025rethink",
+    "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+    "url": "https://openreview.net/forum?id=XycbogUAeJ",
+    "authors": "<b>Wei-Chieh Huang</b><sup>*</sup>, Weizhi Zhang<sup>*</sup>, Yueqing Liang<sup>*</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i>",
+    "venue": "TMLR 2026",
+    "year": "2026",
+    "topics": [
+      "memory"
+    ],
+    "award": "Survey Certification"
+  },
+  {
+    "id": "huang2025deepresearchguard",
+    "title": "Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety",
+    "url": "https://aclanthology.org/2026.acl-long.2010/",
+    "authors": "<b>Wei-Chieh Huang</b>, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, <i>et al.</i>",
+    "venue": "ACL 2026 Main (Poster)",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "huang2025madiave",
+    "title": "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction",
+    "url": "https://aclanthology.org/2026.findings-eacl.159/",
+    "authors": "<b>Wei-Chieh Huang</b>, Cornelia Caragea",
+    "venue": "EACL 2026 Findings",
+    "year": "2026",
+    "topics": [
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zhang2026jarvisbench",
+    "title": "JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces",
+    "url": "https://openreview.net/forum?id=yGQt9wAGkS",
+    "authors": "Weizhi Zhang<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Yueqing Liang<sup>*</sup>, Liwei Jiang, <i>et al.</i>",
+    "venue": "NeurIPS 2026 (ED Track)",
+    "year": "2026",
+    "topics": [
+      "persona",
+      "evaluation"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zhang2025deep",
+    "title": "From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents",
+    "url": "https://www.arxiv.org/abs/2506.18959",
+    "authors": "Weizhi Zhang<sup>*</sup>, Yangning Li<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, <i>et al.</i>",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "yeh2026amos",
+    "title": "AMOS: Active Mining with Observable Steps for Agenda-Driven Review Knowledge Discovery",
+    "url": "https://doi.org/10.1145/3770855.3817839",
+    "authors": "Chin-Yuan Yeh, <b>Wei-Chieh Huang</b>, Hsi-Wen Chen, Chen Wang, De-Nian Yang, …, Philip S. Yu, Ming-Syan Chen",
+    "venue": "KDD 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zoullm",
+    "title": "LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey",
+    "url": "https://aclanthology.org/2026.findings-acl.1811/",
+    "authors": "Henry Peng Zou<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Yaozu Wu<sup>*</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, <i>et al.</i>",
+    "venue": "ACL 2026 Findings",
+    "year": "2026",
+    "topics": [
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "wu2026hasbench",
+    "title": "HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation",
+    "url": "https://arxiv.org/abs/2607.04329",
+    "authors": "Yaozu Wu<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Jizhou Guo<sup>*</sup>, Dongyuan Li, Renhe Jiang, Henry Peng Zou, Chunyu Miao, Shanghao Li, Weizhi Zhang, WeiWei Ye, Yankai Chen, Meng Zhang, <i>et al.</i>",
+    "venue": "arXiv:2607.04329, 2026",
+    "year": "2026",
+    "topics": [
+      "persona",
+      "evaluation",
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zou2026whenusers",
+    "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
+    "url": "https://arxiv.org/abs/2604.00892",
+    "authors": "Henry Peng Zou<sup>*</sup>, Chunyu Miao<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Yankai Chen, Yue Zhou, Hanrong Zhang, Yaozu Wu, Liancheng Fang, Zhengyao Gu, Zhen Zhang, Kening Zheng, Fangxin Wang, <i>et al.</i>",
+    "venue": "arXiv:2604.00892, 2026",
+    "year": "2026",
+    "topics": [
+      "evaluation"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zou2025call",
+    "title": "A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy",
+    "url": "https://arxiv.org/abs/2506.09420",
+    "authors": "Henry Peng Zou<sup>*</sup>, <b>Wei-Chieh Huang</b><sup>*</sup>, Yaozu Wu<sup>*</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, <i>et al.</i>",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "topics": [
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "wu2025psg",
+    "title": "PSG-Agent: Personality-Aware Safety Guardrail for LLM-Based Agents",
+    "url": "https://arxiv.org/abs/2509.23614",
+    "authors": "Yaozu Wu, Jizhou Guo, Dongyuan Li, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yankai Chen, Zhen Wang, Weizhi Zhang, Yangning Li, Meng Zhang, Renhe Jiang, Philip S. Yu",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "topics": [
+      "persona",
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "wz2026memory",
+    "title": "MemoryCD: Benchmarking Long-Context User Memory of LLM Agents for Lifelong Cross-Domain Personalization",
+    "url": "https://openreview.net/forum?id=Lpq4aEqvmg",
+    "authors": "Weizhi Zhang, Xiaokai Wei, <b>Wei-Chieh Huang</b>, Zheng Hui, Chen Wang, Michelle Gong, Philip S. Yu",
+    "venue": "ICLR 2026 Lifelong Agent Workshop",
+    "year": "2026",
+    "topics": [
+      "memory",
+      "persona",
+      "evaluation"
+    ],
+    "award": ""
+  },
+  {
+    "id": "ma2026memprobe",
+    "title": "MemAudit: Auditing Long-Term Agent Memory via Hidden User-State Recovery",
+    "url": "https://arxiv.org/abs/2606.24595",
+    "authors": "Enze Ma, Yufan Zhou, <b>Wei-Chieh Huang</b>, Jie Yang, Huanhuan Ma, Zixuan Wang, Chengze Li, Chunyu Miao, Philip S. Yu, Zhen Wang",
+    "venue": "arXiv:2606.24595, 2026",
+    "year": "2026",
+    "topics": [
+      "memory",
+      "persona",
+      "evaluation"
+    ],
+    "award": ""
+  },
+  {
+    "id": "xu2026hyperskill",
+    "title": "HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory",
+    "url": "https://arxiv.org/abs/2608.16114",
+    "authors": "Ruiyao Xu, Tiankai Yang, <b>Wei-Chieh Huang</b>",
+    "venue": "arXiv:2608.16114, 2026",
+    "year": "2026",
+    "topics": [
+      "memory"
+    ],
+    "award": ""
+  },
+  {
+    "id": "miao2025recode",
+    "title": "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+    "url": "https://openreview.net/forum?id=IKnuyyPHCV",
+    "authors": "Chunyu Miao, Henry Peng Zou, Yangning Li, Yankai Chen, Yibo Wang, Fangxin Wang, Yifan Li, Wooseong Yang, Bowei He, Xinni Zhang, Dianzhi Yu, Hanchen Yang, Hoang H Nguyen, Yue Zhou, Jie Yang, Jizhou Guo, Wenzhe Fan, Chin-Yuan Yeh, Panpan Meng, Liancheng Fang, Jinhu Qi, <b>Wei-Chieh Huang</b>, <i>et al.</i>",
+    "venue": "ICLR 2026",
+    "year": "2026",
+    "topics": [
+      "evaluation",
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zhang2026evoskills",
+    "title": "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification",
+    "url": "https://arxiv.org/abs/2604.01687",
+    "authors": "Hanrong Zhang, Shicheng Fan, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, <b>Wei-Chieh Huang</b>, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, <i>et al.</i>",
+    "venue": "COLM 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zhang2026datasynth",
+    "title": "Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey",
+    "url": "https://openreview.net/forum?id=pQYwkpYmLy",
+    "authors": "Hanrong Zhang, Yankai Chen, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, Zhaofen Wu, Jie Yang, Bowei He, Jikun Kang, Kening Zheng, Xi Chen, Chunyu Miao, Fulin Lin, <b>Wei-Chieh Huang</b>, <i>et al.</i>",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "yang2026xbridge",
+    "title": "XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication",
+    "url": "https://arxiv.org/abs/2608.11676",
+    "authors": "Wooseong Yang, <b>Wei-Chieh Huang</b>, Weizhi Zhang, Yu Wang, Philip S. Yu, Junhyun Lee",
+    "venue": "NeurIPS 2026",
+    "year": "2026",
+    "topics": [
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "zheng2026moe",
+    "title": "Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation",
+    "url": "https://arxiv.org/abs/2604.03592",
+    "authors": "Kening Zheng, <b>Wei-Chieh Huang</b>, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, Junzhuo Li, Hanrong Zhang, Xuming Hu, Philip S. Yu",
+    "venue": "EMNLP 2026 Findings",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "he2026action",
+    "title": "Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy",
+    "url": "https://arxiv.org/abs/2605.14558",
+    "authors": "Langzhou He, Junyou Zhu, Yue Zhou, Zhengyao Gu, Junhua Liu, <b>Wei-Chieh Huang</b>, Henry Peng Zou, David Wipf, Philip S. Yu, Qitian Wu",
+    "venue": "arXiv:2605.14558, 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "fang2026diffusion",
+    "title": "Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2604.00375",
+    "authors": "Liancheng Fang, Aiwei Liu, Henry Peng Zou, Yankai Chen, Enze Ma, Leyi Pan, Chunyu Miao, <b>Wei-Chieh Huang</b>, Xue Liu, Philip S. Yu",
+    "venue": "COLM 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "huo2026causalembed",
+    "title": "CausalEmbed: Auto-Regressive Multi-Vector Generation in Latent Space for Visual Document Embedding",
+    "url": "https://arxiv.org/abs/2601.21262",
+    "authors": "Jiahao Huo, Yu Huang, Yibo Yan, Ye Pan, Kening Zheng, <b>Wei-Chieh Huang</b>, Yi Cao, Mingdong Ou, Philip S. Yu, Xuming Hu",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "li2026arcstar",
+    "title": "ARC-STAR: Auditable Post-Hoc Correction for PDE Foundation Models",
+    "url": "https://arxiv.org/abs/2605.22222",
+    "authors": "Chengze Li, Lingwei Wei, Li Sun, Hongbo Lv, Jie Yang, Hanrong Zhang, Kening Zheng, <b>Wei-Chieh Huang</b>, Enze Ma, Philip S. Yu",
+    "venue": "arXiv:2605.22222, 2026",
+    "year": "2026",
+    "topics": [],
+    "award": ""
+  },
+  {
+    "id": "li2025towards",
+    "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs",
+    "url": "https://aclanthology.org/2025.findings-emnlp.648/",
+    "authors": "Yangning Li<sup>*</sup>, Weizhi Zhang<sup>*</sup>, Yuyao Yang, <b>Wei-Chieh Huang</b>, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, <i>et al.</i>",
+    "venue": "EMNLP 2025",
+    "year": "2025",
+    "topics": [
+      "reasoning"
+    ],
+    "award": ""
+  },
+  {
+    "id": "wu2025multi",
+    "title": "Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions",
+    "url": "https://aclanthology.org/2025.findings-emnlp.683/",
+    "authors": "Yaozu Wu<sup>*</sup>, Dongyuan Li<sup>*</sup>, Yankai Chen, Renhe Jiang, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu",
+    "venue": "EMNLP 2025",
+    "year": "2025",
+    "topics": [
+      "collaboration"
+    ],
+    "award": ""
+  },
+  {
+    "id": "li2025teaching",
+    "title": "Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning",
+    "url": "https://aclanthology.org/2025.findings-emnlp.629/",
+    "authors": "Yangning Li, Tingwei Lu, Yinghui Li, Yankai Chen, <b>Wei-Chieh Huang</b>, Wenhao Jiang, Hui Wang, Hai-Tao Zheng, Philip S. Yu",
+    "venue": "EMNLP 2025 Findings",
+    "year": "2025",
+    "topics": [],
+    "award": ""
+  },
+  {
+    "id": "battery",
+    "title": "Impacts of Battery Energy Storage Technologies and Renewable Integration on the Energy Transition in the New York State",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666792423000057",
+    "authors": "<b>Wei-Chieh Huang</b>, Qianzhi Zhang, Fengqi You",
+    "venue": "Advances in Applied Energy",
+    "year": "2023",
+    "topics": [],
+    "award": ""
+  }
+]
