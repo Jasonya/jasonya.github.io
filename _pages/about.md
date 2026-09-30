@@ -1,72 +1,322 @@
 ---
-layout: editorial
 permalink: /
-title: "Wei-Chieh Huang"
+title: ""
+excerpt: ""
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-<section class="hero section-wrap" id="about-me">
-<div class="hero-copy">
-<p class="eyebrow"><span class="status-dot"></span> UIC · Computer Science / Amazon Quick</p>
-<h1>Wei-Chieh Huang<span class="name-note">Jason Huang</span></h1>
-<p class="hero-statement">Agents that <em>remember,</em><br>adapt, and collaborate.</p>
-<p class="intro">I study how agents build memory, understand people, and work with us over time. My research connects <strong>memory, persona, personalization,</strong> and <strong>human–agent collaboration</strong> with reliable evaluation and deep research.</p>
-<p class="bio">Ph.D. student at the <a href="https://bdsc-uic.github.io/">University of Illinois Chicago</a>, advised by <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a>. Currently an Applied Scientist Intern at <strong>Amazon Quick</strong>. Expected graduation: May 2028.</p>
-<div class="hero-links"><a class="button-primary" href="/files/Wei-Chieh-Huang-CV.pdf">Download CV ↗</a><a href="https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&amp;hl=en">Google Scholar ↗</a><a href="https://github.com/Jasonya">GitHub ↗</a><a href="mailto:whuang80@uic.edu">Email ↗</a></div>
+
+<div class='anchor' id='about-me'></div>
+
+I am a Ph.D. student in Computer Science in the [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), advised by Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ), with expected graduation in **May 2028**. My research focuses on **agent memory and lifelong personalization**, **interactive agent evaluation**, **agentic deep research**, and **human-agent collaboration**. I am currently an **Applied Scientist Intern at Amazon Quick**, building multi-agent software generation systems for sandbox environment creation.
+
+[Download my CV (PDF)](/files/Wei-Chieh-Huang-CV.pdf)
+
+<div class="hp-callout">🔎 I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
+
+<h1 id="-research-interests">🔬 Research Interests</h1>
+
+- **Agentic Memory & Lifelong Personalization**: Memory substrates, context engineering, retrieval policies, self-evolving memory, long-context reasoning, and cross-domain user modeling
+  <span class="research-papers">Related work: [Harness the Memory](#pub-huang2026harnessmemory), [Memory Survey](#pub-huang2025rethink), [MemoryCD](#pub-wz2026memory), [MemAudit](#pub-ma2026memprobe), [HyperSkill](#pub-xu2026hyperskill)</span>
+- **Agent Evaluation & Interactive Benchmarking**: Long-horizon trajectories, user simulation, human participation, interruptibility, mid-task steering, and diagnostic evaluation
+  <span class="research-papers">Related work: [JARVIS-Bench](#pub-zhang2026jarvisbench), [HAS-Bench](#pub-wu2026hasbench), [InterruptBench](#pub-zou2026whenusers), [RECODE-H](#pub-miao2025recode)</span>
+- **Agentic Deep Research, Tool Use & RL**: Web search, agentic RAG, long-horizon reasoning, reinforcement learning, self-evolving skills, verifier-guided optimization, and safety guardrails
+  <span class="research-papers">Related work: [DeepResearchGuard](#pub-huang2025deepresearchguard), [Deep Research Survey](#pub-zhang2025deep), [RAG Survey](#pub-li2025towards), [CoEvoSkills](#pub-zhang2026evoskills), [Data Synthesis Survey](#pub-zhang2026datasynth), [Action Bottleneck](#pub-he2026action)</span>
+- **Human–Agent Collaboration & Trustworthy Systems**: Human-in-the-loop feedback, multi-agent debate, heterogeneous coordination, interaction protocols, and personality-aware safety
+  <span class="research-papers">Related work: [MADIAVE](#pub-huang2025madiave), [Human–Agent Survey](#pub-zoullm), [Autonomous Driving Survey](#pub-wu2025multi), [Collaborative Intelligence](#pub-zou2025call), [PSG-Agent](#pub-wu2025psg), [RECODE-H](#pub-miao2025recode), [XBridge](#pub-yang2026xbridge)</span>
+
+<h1 id="-news">🔥 News</h1>
+
+<div class="news-list" markdown="1">
+
+- <span class="news-date">2026.09</span><span class="news-body">Joined **Amazon Quick** as an **Applied Scientist Intern**, working on multi-agent software generation, sandbox environments, and self-improving agent workflows.</span>
+- <span class="news-date">2026.09</span><span class="news-body">**Harness the Memory** and **JARVIS-Bench** accepted to **NeurIPS 2026 (ED Track)**; **XBridge** accepted to **NeurIPS 2026**.</span>
+
+- <span class="news-date">2026.08</span><span class="news-body">"A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents" accepted to **TMLR**, with **Survey Certification**.</span>
+- <span class="news-date">2026.05</span><span class="news-body">"LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" accepted to ACL 2026 Findings.</span>
+- <span class="news-date">2026.04</span><span class="news-body">"Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" accepted to ACL 2026 Main.</span>
+- <span class="news-date">2026.01</span><span class="news-body">"MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" accepted to EACL 2026 Findings.</span>
+- <span class="news-date">2026.01</span><span class="news-body">"RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback" accepted to ICLR 2026.</span>
+- <span class="news-date">2026.01</span><span class="news-body">Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</span>
+
 </div>
-<aside class="portrait-block"><div class="portrait-frame"><img src="/images/jason.jpeg" alt="Wei-Chieh Huang" width="340" height="400"></div><p>Wei-Chieh (Jason) Huang<br><span>Researcher · Builder · Collaborator</span></p><a href="https://www.linkedin.com/in/wchjason/">LinkedIn ↗</a></aside>
-</section>
-<div class="availability section-wrap"><span>LOOKING AHEAD</span><p>Open to research internships for <strong>Summer 2027.</strong></p><a href="mailto:whuang80@uic.edu">Let’s connect ↗</a></div>
-<section class="section-wrap research-section" id="-research-interests">
-<div class="section-heading"><div><p class="eyebrow">01 / Research directions</p><h2>Memory. Persona.<br>Collaboration.</h2></div><p class="section-intro">Five connected directions for agents that learn from experience and adapt to the people they support.</p></div>
-<div class="research-grid">
-<article class="research-item"><span class="research-number">01</span><h3>Memory & lifelong learning</h3><p>Memory substrates, context engineering, retrieval policies, self-evolving skills, and long-horizon reasoning.</p><div class="text-links"><a href="#pub-huang2026harnessmemory">Harness the Memory ↗</a><a href="#pub-huang2025rethink">Memory Survey ↗</a></div></article>
-<article class="research-item"><span class="research-number">02</span><h3>Persona & personalization</h3><p>User modeling, personality-aware safety, preference adaptation, and lifelong cross-domain personalization.</p><div class="text-links"><a href="#pub-wu2025psg">PSG-Agent ↗</a><a href="#pub-wz2026memory">MemoryCD ↗</a></div></article>
-<article class="research-item"><span class="research-number">03</span><h3>Evaluation & interaction</h3><p>Real-user traces, configurable human participation, interruptibility, and diagnostic agent benchmarks.</p><div class="text-links"><a href="#pub-zhang2026jarvisbench">JARVIS-Bench ↗</a><a href="#pub-wu2026hasbench">HAS-Bench ↗</a></div></article>
-<article class="research-item"><span class="research-number">04</span><h3>Deep research & reasoning</h3><p>Agentic RAG, tool use, reinforcement learning, verification, and multi-stage safety guardrails.</p><div class="text-links"><a href="#pub-huang2025deepresearchguard">DeepResearchGuard ↗</a><a href="#pub-zhang2026evoskills">CoEvoSkills ↗</a></div></article>
-<article class="research-item"><span class="research-number">05</span><h3>Human–agent collaboration</h3><p>Human feedback, multi-agent debate, heterogeneous communication, and trustworthy interaction.</p><div class="text-links"><a href="#pub-zoullm">Human–Agent Survey ↗</a><a href="#pub-huang2025madiave">MADIAVE ↗</a></div></article>
-</div></section>
-<section class="selected-section" id="-selected-publications"><div class="section-wrap">
-<div class="section-heading"><div><p class="eyebrow">02 / Selected work</p><h2>Research in focus.</h2></div><a class="section-action" href="#-full-publication-list">All 28 publications ↓</a></div>
-<div class="selected-grid">
-<article class="featured-paper"><div class="paper-cover concept-cover cover-memory" aria-hidden="true"><span>EXPERIENCE</span><strong>Memory</strong><div>Retrieve · Reflect · Adapt</div></div><div class="featured-copy"><p class="venue">NeurIPS 2026 (ED Track)</p><h3><a href="https://arxiv.org/abs/2608.15008">Harness the Memory ↗</a></h3><p>Evaluating memory substrates through a shared agent harness.</p><a class="small-link" href="#pub-huang2026harnessmemory">Paper details ↓</a></div></article>
-<article class="featured-paper"><div class="paper-cover"><img src="/images/agent_memory.png" alt="Overview figure for A Survey of Agent Memory" loading="lazy" decoding="async"></div><div class="featured-copy"><p class="venue">TMLR 2026</p><h3><a href="https://openreview.net/forum?id=XycbogUAeJ">A Survey of Agent Memory ↗</a></h3><p>A systematic view of memory for self-evolving, long-horizon agents.</p><a class="small-link" href="#pub-huang2025rethink">Paper details ↓</a></div></article>
-<article class="featured-paper"><div class="paper-cover concept-cover cover-traces" aria-hidden="true"><span>REAL-USER TRACES</span><strong>JARVIS</strong><div>Context → Planning → Action</div></div><div class="featured-copy"><p class="venue">NeurIPS 2026 (ED Track)</p><h3><a href="https://openreview.net/forum?id=yGQt9wAGkS">JARVIS-Bench ↗</a></h3><p>Benchmarking personal intelligence agents on long-horizon real-user daily traces.</p><a class="small-link" href="#pub-zhang2026jarvisbench">Paper details ↓</a></div></article>
-<article class="featured-paper"><div class="paper-cover"><img src="/images/deepresearchguard.png" alt="Overview figure for DeepResearchGuard" loading="lazy" decoding="async"></div><div class="featured-copy"><p class="venue">ACL 2026 Main (Poster)</p><h3><a href="https://aclanthology.org/2026.acl-long.2010/">DeepResearchGuard ↗</a></h3><p>Open-domain evaluation with safeguards across the deep research workflow.</p><a class="small-link" href="#pub-huang2025deepresearchguard">Paper details ↓</a></div></article>
-<article class="featured-paper"><div class="paper-cover"><img src="/images/main_figurev5.jpg" alt="Overview figure for Human–Agent Systems" loading="lazy" decoding="async"></div><div class="featured-copy"><p class="venue">ACL 2026 Findings</p><h3><a href="https://aclanthology.org/2026.findings-acl.1811/">Human–Agent Systems ↗</a></h3><p>Mapping how people and LLM agents collaborate and interact.</p><a class="small-link" href="#pub-zoullm">Paper details ↓</a></div></article>
-<article class="featured-paper"><div class="paper-cover concept-cover cover-persona" aria-hidden="true"><span>PERSONALITY-AWARE SAFETY</span><strong>Persona</strong><div>User context × Agent behavior</div></div><div class="featured-copy"><p class="venue">Under Review, 2026</p><h3><a href="https://arxiv.org/abs/2509.23614">PSG-Agent ↗</a></h3><p>Personality-aware guardrails for safer, more personalized agent behavior.</p><a class="small-link" href="#pub-wu2025psg">Paper details ↓</a></div></article>
-</div></div></section>
-<section class="section-wrap news-section" id="-news"><div class="section-heading"><div><p class="eyebrow">03 / Updates</p><h2>Recently.</h2></div></div><div class="news-rows">
-<div class="news-row"><time datetime="2026-09">Sep 2026</time><p>Joined <strong>Amazon Quick</strong> as an Applied Scientist Intern, working on multi-agent software generation and self-improving workflows.</p></div>
-<div class="news-row"><time datetime="2026-09">Sep 2026</time><p><strong>Harness the Memory</strong> and <strong>JARVIS-Bench</strong> accepted to NeurIPS 2026 <strong>ED Track</strong>; <strong>XBridge</strong> accepted to NeurIPS 2026.</p></div>
-<div class="news-row"><time datetime="2026-08">Aug 2026</time><p>Our <strong>Agent Memory Survey</strong> accepted to <strong>TMLR 2026</strong> with Survey Certification.</p></div>
-</div><details class="older-news"><summary>Earlier updates</summary><div class="news-rows">
-<div class="news-row"><time datetime="2026-05">May 2026</time><p>Human–Agent Collaboration and Interaction Systems Survey accepted to ACL 2026 Findings.</p></div>
-<div class="news-row"><time datetime="2026-04">Apr 2026</time><p>DeepResearchGuard accepted to ACL 2026 Main.</p></div>
-<div class="news-row"><time datetime="2026-01">Jan 2026</time><p>MADIAVE accepted to EACL 2026 Findings; RECODE-H accepted to ICLR 2026.</p></div>
-<div class="news-row"><time datetime="2026-01">Jan 2026</time><p>Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</p></div>
-</div></details></section>
-<section class="section-wrap publications-section" id="-full-publication-list">
-<div class="section-heading"><div><p class="eyebrow">04 / Publications &amp; preprints</p><h2>The full collection.</h2></div><a class="section-action" href="https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&amp;hl=en">Google Scholar ↗</a></div>
-<div class="publication-filters" hidden>
-<div class="filter-row"><div class="search-field"><label for="paper-search">Search publications</label><input id="paper-search" type="search" placeholder="Title, author, or venue" autocomplete="off"></div><div class="year-field"><label for="paper-year">Year</label><select id="paper-year"><option value="all">All years</option><option value="2026">2026</option><option value="2025">2025</option><option value="2023">2023</option></select></div></div>
-<div class="topic-filters" role="group" aria-label="Filter by research topic"><button type="button" data-topic="all" aria-pressed="true">All work</button><button type="button" data-topic="memory" aria-pressed="false">Memory</button><button type="button" data-topic="persona" aria-pressed="false">Persona</button><button type="button" data-topic="evaluation" aria-pressed="false">Evaluation</button><button type="button" data-topic="reasoning" aria-pressed="false">Reasoning</button><button type="button" data-topic="collaboration" aria-pressed="false">Collaboration</button></div></div>
-<div class="collection-note"><span id="paper-count" aria-live="polite">28 publications</span><span>* Equal contribution</span></div>
-<div class="publication-list">
-{% for paper in site.data.publications %}
-<article class="publication" id="pub-{{ paper.id }}" data-year="{{ paper.year }}" data-topics="{{ paper.topics | join: ' ' }}">
-<div class="publication-year">{{ paper.year }}</div><div class="publication-body"><div class="publication-meta"><span class="venue">{{ paper.venue }}</span>{% if paper.award != '' %}<span class="award">{{ paper.award }}</span>{% endif %}</div>
-<h3><a href="{{ paper.url }}">{{ paper.title }} <span aria-hidden="true">↗</span></a></h3>
-<details class="authors"><summary>Authors</summary><div>{{ paper.authors }}</div></details>
-</div></article>
-{% endfor %}
-</div><p class="empty-state" hidden>No matching publications. Try another search or topic.</p>
-</section>
-<section class="experience-section" id="-work-experience"><div class="section-wrap">
-<div class="section-heading"><div><p class="eyebrow">05 / Experience &amp; education</p><h2>Research meets practice.</h2></div></div>
-<div class="experience-layout"><div>
-<article class="experience-item"><p class="eyebrow">Sep 2026–Present · Seattle, WA</p><h3>Amazon Quick</h3><p class="role">Applied Scientist Intern</p><ul><li>Build an end-to-end multi-agent software generation system, integrating task planning, code synthesis, tool orchestration, and execution to automate sandbox environment creation.</li><li>Optimize tool use, agent memory and retrieval, communication topology, execution harnesses, and loop engineering through self-improving workflows and recursive self-improvement (RSI).</li></ul></article>
-<article class="experience-item"><p class="eyebrow">Jan 2022–Dec 2023 · Chevy Chase, MD</p><h3>GEICO</h3><p class="role">Data Scientist · Research &amp; Innovation</p><ul><li>Built a multimodal document-verification pipeline using BERT and CNN models, achieving 98% overall accuracy for insurance customer verification.</li><li>Designed and deployed an underwriting ML pipeline to detect potential insurance fraud, reducing the overall loss ratio by 3.5% and generating projected annual savings of $60M.</li></ul></article>
-</div><aside class="education" id="-educations"><p class="eyebrow">Education</p><h3>University of Illinois Chicago</h3><p>Ph.D. in Computer Science<br>Aug 2024–Present · Expected May 2028<br>Advisor: Philip S. Yu</p><h3>Cornell University</h3><p>M.S. in Systems Engineering<br>Sep 2020–Dec 2022</p><h3>National Taiwan University<br>of Science and Technology</h3><p>B.S. in Chemical Engineering<br>Sep 2013–Jun 2017</p><div class="service" id="-service"><p class="eyebrow">Professional service</p><p>Program Committee / Reviewer<br>ACL 2026 · ACL Industry Track 2026<br>ICML 2026 · NeurIPS 2026</p></div></aside></div>
-</div></section>
+
+
+<h1 id="-selected-publications">📝 Selected Publications</h1>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents](https://openreview.net/forum?id=XycbogUAeJ)
+
+**Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu
+
+<span class="pub-honor">🏆 Survey Certification</span>
+
+[![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=social&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/deepresearchguard.png' alt="Deep research pipeline annotated with the general stages of input, plan, search, and output, and the guardrail stages added at each" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
+for Safety](https://aclanthology.org/2026.acl-long.2010/)
+
+**Wei-Chieh Huang**, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026 Findings</div><img src='images/madiave_main.png' alt="Multi-agent debate pipeline for implicit attribute value extraction, repeating selection and debate over N rounds" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](https://aclanthology.org/2026.findings-eacl.159/)
+
+**Wei-Chieh Huang**, Cornelia Caragea
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/main_figurev5.jpg' alt="Overview of LLM-based human-agent systems, showing where human feedback enters the collaboration loop" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://aclanthology.org/2026.findings-acl.1811/)
+
+Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
+
+[![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">Under Review, 2026</div><img src='images/human_agent_systems.png' alt="Side-by-side comparison of autonomous agent systems and human-agent systems" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
+
+Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/intro2.png' alt="" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648/)
+
+Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
+
+[![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">Under Review, 2026</div><img src='images/Framework_final.png' alt="" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
+
+Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
+
+[![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
+</div>
+</div>
+
+<h1 id="-full-publication-list">📚 All Publications</h1>
+
+See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile. **\* Equal contribution.**
+
+<div class="pub-list">
+
+<h3 class="pub-year">2026</h3>
+
+<div class="pub-item" id="pub-huang2026harnessmemory">
+  <a class="pub-title" href="https://arxiv.org/abs/2608.15008">Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents</a>
+  <div class="pub-authors"><b>Wei-Chieh Huang</b>, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan</div>
+  <div class="pub-meta"><span class="pub-tag">NeurIPS 2026 (ED Track)</span></div>
+</div>
+
+<div class="pub-item" id="pub-huang2025rethink">
+  <a class="pub-title" href="https://openreview.net/forum?id=XycbogUAeJ">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a>
+  <div class="pub-authors"><b>Wei-Chieh Huang</b><sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">🏆 Survey Certification</span></div>
+</div>
+
+<div class="pub-item" id="pub-huang2025deepresearchguard">
+  <a class="pub-title" href="https://aclanthology.org/2026.acl-long.2010/">Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety</a>
+  <div class="pub-authors"><b>Wei-Chieh Huang</b>, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">ACL 2026 Main (Poster)</span></div>
+</div>
+
+<div class="pub-item" id="pub-huang2025madiave">
+  <a class="pub-title" href="https://aclanthology.org/2026.findings-eacl.159/">MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction</a>
+  <div class="pub-authors"><b>Wei-Chieh Huang</b>, Cornelia Caragea</div>
+  <div class="pub-meta"><span class="pub-tag">EACL 2026 Findings</span></div>
+</div>
+
+<div class="pub-item" id="pub-zhang2026jarvisbench">
+  <a class="pub-title" href="https://openreview.net/forum?id=yGQt9wAGkS">JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces</a>
+  <div class="pub-authors">Weizhi Zhang<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Liwei Jiang, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">NeurIPS 2026 (ED Track)</span></div>
+</div>
+
+<div class="pub-item" id="pub-zhang2025deep">
+  <a class="pub-title" href="https://www.arxiv.org/abs/2506.18959">From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents</a>
+  <div class="pub-authors">Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">Under Review, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-yeh2026amos">
+  <a class="pub-title" href="https://doi.org/10.1145/3770855.3817839">AMOS: Active Mining with Observable Steps for Agenda-Driven Review Knowledge Discovery</a>
+  <div class="pub-authors">Chin-Yuan Yeh, <b>Wei-Chieh Huang</b>, Hsi-Wen Chen, Chen Wang, De-Nian Yang, …, Philip S. Yu, Ming-Syan Chen</div>
+  <div class="pub-meta"><span class="pub-tag">KDD 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zoullm">
+  <a class="pub-title" href="https://aclanthology.org/2026.findings-acl.1811/">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</a>
+  <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">ACL 2026 Findings</span></div>
+</div>
+
+<div class="pub-item" id="pub-wu2026hasbench">
+  <a class="pub-title" href="https://arxiv.org/abs/2607.04329">HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation</a>
+  <div class="pub-authors">Yaozu Wu<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Jizhou Guo<sup>&#42;</sup>, Dongyuan Li, Renhe Jiang, Henry Peng Zou, Chunyu Miao, Shanghao Li, Weizhi Zhang, WeiWei Ye, Yankai Chen, Meng Zhang, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2607.04329, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zou2026whenusers">
+  <a class="pub-title" href="https://arxiv.org/abs/2604.00892">When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation</a>
+  <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, Chunyu Miao<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yankai Chen, Yue Zhou, Hanrong Zhang, Yaozu Wu, Liancheng Fang, Zhengyao Gu, Zhen Zhang, Kening Zheng, Fangxin Wang, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2604.00892, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zou2025call">
+  <a class="pub-title" href="https://arxiv.org/abs/2506.09420">A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy</a>
+  <div class="pub-authors">Henry Peng Zou<sup>&#42;</sup>, <b>Wei-Chieh Huang</b><sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">Under Review, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-wu2025psg">
+  <a class="pub-title" href="https://arxiv.org/abs/2509.23614">PSG-Agent: Personality-Aware Safety Guardrail for LLM-Based Agents</a>
+  <div class="pub-authors">Yaozu Wu, Jizhou Guo, Dongyuan Li, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yankai Chen, Zhen Wang, Weizhi Zhang, Yangning Li, Meng Zhang, Renhe Jiang, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">Under Review, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-wz2026memory">
+  <a class="pub-title" href="https://openreview.net/forum?id=Lpq4aEqvmg">MemoryCD: Benchmarking Long-Context User Memory of LLM Agents for Lifelong Cross-Domain Personalization</a>
+  <div class="pub-authors">Weizhi Zhang, Xiaokai Wei, <b>Wei-Chieh Huang</b>, Zheng Hui, Chen Wang, Michelle Gong, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--workshop">ICLR 2026 Lifelong Agent Workshop</span></div>
+</div>
+
+<div class="pub-item" id="pub-ma2026memprobe">
+  <a class="pub-title" href="https://arxiv.org/abs/2606.24595">MemAudit: Auditing Long-Term Agent Memory via Hidden User-State Recovery</a>
+  <div class="pub-authors">Enze Ma, Yufan Zhou, <b>Wei-Chieh Huang</b>, Jie Yang, Huanhuan Ma, Zixuan Wang, Chengze Li, Chunyu Miao, Philip S. Yu, Zhen Wang</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2606.24595, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-xu2026hyperskill">
+  <a class="pub-title" href="https://arxiv.org/abs/2608.16114">HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory</a>
+  <div class="pub-authors">Ruiyao Xu, Tiankai Yang, <b>Wei-Chieh Huang</b></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2608.16114, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-miao2025recode">
+  <a class="pub-title" href="https://openreview.net/forum?id=IKnuyyPHCV">RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback</a>
+  <div class="pub-authors">Chunyu Miao, Henry Peng Zou, Yangning Li, Yankai Chen, Yibo Wang, Fangxin Wang, Yifan Li, Wooseong Yang, Bowei He, Xinni Zhang, Dianzhi Yu, Hanchen Yang, Hoang H Nguyen, Yue Zhou, Jie Yang, Jizhou Guo, Wenzhe Fan, Chin-Yuan Yeh, Panpan Meng, Liancheng Fang, Jinhu Qi, <b>Wei-Chieh Huang</b>, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">ICLR 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zhang2026evoskills">
+  <a class="pub-title" href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a>
+  <div class="pub-authors">Hanrong Zhang, Shicheng Fan, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, <b>Wei-Chieh Huang</b>, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">COLM 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zhang2026datasynth">
+  <a class="pub-title" href="https://openreview.net/forum?id=pQYwkpYmLy">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a>
+  <div class="pub-authors">Hanrong Zhang, Yankai Chen, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, Zhaofen Wu, Jie Yang, Bowei He, Jikun Kang, Kening Zheng, Xi Chen, Chunyu Miao, Fulin Lin, <b>Wei-Chieh Huang</b>, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">Under Review, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-yang2026xbridge">
+  <a class="pub-title" href="https://arxiv.org/abs/2608.11676">XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication</a>
+  <div class="pub-authors">Wooseong Yang, <b>Wei-Chieh Huang</b>, Weizhi Zhang, Yu Wang, Philip S. Yu, Junhyun Lee</div>
+  <div class="pub-meta"><span class="pub-tag">NeurIPS 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-zheng2026moe">
+  <a class="pub-title" href="https://arxiv.org/abs/2604.03592">Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation</a>
+  <div class="pub-authors">Kening Zheng, <b>Wei-Chieh Huang</b>, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, Junzhuo Li, Hanrong Zhang, Xuming Hu, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag">EMNLP 2026 Findings</span></div>
+</div>
+
+<div class="pub-item" id="pub-he2026action">
+  <a class="pub-title" href="https://arxiv.org/abs/2605.14558">Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy</a>
+  <div class="pub-authors">Langzhou He, Junyou Zhu, Yue Zhou, Zhengyao Gu, Junhua Liu, <b>Wei-Chieh Huang</b>, Henry Peng Zou, David Wipf, Philip S. Yu, Qitian Wu</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2605.14558, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-fang2026diffusion">
+  <a class="pub-title" href="https://arxiv.org/abs/2604.00375">Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models</a>
+  <div class="pub-authors">Liancheng Fang, Aiwei Liu, Henry Peng Zou, Yankai Chen, Enze Ma, Leyi Pan, Chunyu Miao, <b>Wei-Chieh Huang</b>, Xue Liu, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag">COLM 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-huo2026causalembed">
+  <a class="pub-title" href="https://arxiv.org/abs/2601.21262">CausalEmbed: Auto-Regressive Multi-Vector Generation in Latent Space for Visual Document Embedding</a>
+  <div class="pub-authors">Jiahao Huo, Yu Huang, Yibo Yan, Ye Pan, Kening Zheng, <b>Wei-Chieh Huang</b>, Yi Cao, Mingdong Ou, Philip S. Yu, Xuming Hu</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">Under Review, 2026</span></div>
+</div>
+
+<div class="pub-item" id="pub-li2026arcstar">
+  <a class="pub-title" href="https://arxiv.org/abs/2605.22222">ARC-STAR: Auditable Post-Hoc Correction for PDE Foundation Models</a>
+  <div class="pub-authors">Chengze Li, Lingwei Wei, Li Sun, Hongbo Lv, Jie Yang, Hanrong Zhang, Kening Zheng, <b>Wei-Chieh Huang</b>, Enze Ma, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag pub-tag--preprint">arXiv:2605.22222, 2026</span></div>
+</div>
+
+<h3 class="pub-year">2025</h3>
+
+<div class="pub-item" id="pub-li2025towards">
+  <a class="pub-title" href="https://aclanthology.org/2025.findings-emnlp.648/">Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs</a>
+  <div class="pub-authors">Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, <b>Wei-Chieh Huang</b>, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, <i>et al.</i></div>
+  <div class="pub-meta"><span class="pub-tag">EMNLP 2025</span></div>
+</div>
+
+<div class="pub-item" id="pub-wu2025multi">
+  <a class="pub-title" href="https://aclanthology.org/2025.findings-emnlp.683/">Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions</a>
+  <div class="pub-authors">Yaozu Wu<sup>&#42;</sup>, Dongyuan Li<sup>&#42;</sup>, Yankai Chen, Renhe Jiang, Henry Peng Zou, <b>Wei-Chieh Huang</b>, Yangning Li, Liancheng Fang, Zhen Wang, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag">EMNLP 2025</span></div>
+</div>
+
+<div class="pub-item" id="pub-li2025teaching">
+  <a class="pub-title" href="https://aclanthology.org/2025.findings-emnlp.629/">Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning</a>
+  <div class="pub-authors">Yangning Li, Tingwei Lu, Yinghui Li, Yankai Chen, <b>Wei-Chieh Huang</b>, Wenhao Jiang, Hui Wang, Hai-Tao Zheng, Philip S. Yu</div>
+  <div class="pub-meta"><span class="pub-tag">EMNLP 2025 Findings</span></div>
+</div>
+
+<h3 class="pub-year">2023</h3>
+
+<div class="pub-item" id="pub-battery">
+  <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S2666792423000057">Impacts of Battery Energy Storage Technologies and Renewable Integration on the Energy Transition in the New York State</a>
+  <div class="pub-authors"><b>Wei-Chieh Huang</b>, Qianzhi Zhang, Fengqi You</div>
+  <div class="pub-meta"><span class="pub-tag">Advances in Applied Energy</span></div>
+</div>
+
+</div>
+
+<h1 id="-educations">📖 Education</h1>
+- *2024.08–Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US. Expected graduation: **May 2028**.
+- *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
+- *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan.
+
+<h1 id="-work-experience">💼 Work Experience</h1>
+- **Amazon — Amazon Quick** — Applied Scientist Intern, Seattle, WA. *Sep. 2026–Present*
+  - Build an end-to-end multi-agent software generation system for Amazon Quick, integrating task planning, code synthesis, tool orchestration, and execution to automate sandbox environment creation.
+  - Optimize tool selection and invocation, agent memory and retrieval, multi-agent communication topology, execution harnesses, and loop engineering through self-improving workflows and recursive self-improvement (RSI).
+- **GEICO — Research & Innovation** — Data Scientist, Chevy Chase, MD. *Jan. 2022–Dec. 2023*
+  - Built an automatic multimodal document-verification pipeline that fuses textual information and visual patterns via a BERT and CNN fusion model, achieving 98% overall accuracy for insurance customer verification.
+  - Designed and deployed an underwriting ML pipeline to detect potential insurance fraud, reducing the overall loss ratio by 3.5% and generating projected annual savings of $60M.
+
+<h1 id="-service">🤝 Professional Service</h1>
+
+**Program Committee / Reviewer:** ACL 2026, ACL 2026 Industry Track, ICML 2026, NeurIPS 2026.
