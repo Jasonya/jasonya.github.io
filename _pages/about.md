@@ -58,12 +58,10 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 
 Selected papers from my research. [View all publications ↓](#-full-publication-list) · \* Equal contribution.
 
-<div class="paper-box paper-box--text-only">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2026 (ED Track)</div><a href="/images/harness_memory.png" aria-label="View full-size Harness the Memory evaluation overview"><img src="/images/harness_memory.png" alt="Harness the Memory evaluation overview: external and internal memory substrates, unified actions and models, and user-centric and agent-centric benchmarks" loading="lazy" decoding="async"></a></div></div>
 <div class="paper-box-text" markdown="1">
 
 [Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](https://arxiv.org/abs/2608.15008)
-
-<span class="pub-tag">NeurIPS 2026 (ED Track)</span>
 
 **Wei-Chieh Huang**, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan
 
