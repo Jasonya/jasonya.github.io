@@ -397,3 +397,32 @@ body { color: #293340; -webkit-font-smoothing: antialiased; }
 @media (prefers-reduced-motion: reduce) {
     .paper-box, .paper-box img, .pub-item::before { transition: none; }
 }
+
+/* Cool, low-glare surfaces while retaining the original layout. */
+body { background: #e9eef4; }
+.masthead, .greedy-nav { background: #e2e9f1; }
+.masthead { border-bottom-color: #cbd6e2; }
+.greedy-nav .hidden-links { background: #edf2f7; }
+.page__inner-wrap {
+    background: #f8fafc;
+    border: 1px solid #dce4ed;
+    border-radius: 8px;
+    padding: 1.35em 1.5em;
+}
+.page__content h1 { border-bottom-color: #cdd9e6; }
+.hp-callout { background: #e6eef8; }
+.news-list { background: #eff3f8; border-radius: 5px; padding: .25em .9em; }
+.news-date { background: #dfe8f3; }
+.pub-tag { background: #e6eef7; }
+.pub-tag--preprint { background: #ebedf1; }
+.pub-tag--workshop { background: #e6f1eb; }
+.pub-tag--award { background: #f8e9ec; }
+.author__avatar img { background: #f8fafc; }
+@media (max-width: 767px) {
+    .page__inner-wrap { padding: 1em; border-radius: 6px; }
+    .news-list { padding-inline: .6em; }
+}
+@media print {
+    body, .page__inner-wrap { background: white; }
+    .page__inner-wrap { border: 0; padding: 0; }
+}
