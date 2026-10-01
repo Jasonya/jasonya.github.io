@@ -441,3 +441,15 @@ body { background: #e9eef4; }
 .selected-authors p { color: #647184; font-size: .93em; }
 .paper-box-text > p:first-child { margin-bottom: .7em; }
 @media print { .selected-authors > p { display: block; } }
+
+
+/* Larger reading text and a text-first selected entry for Harness the Memory. */
+.page__content { font-size: 16px; }
+.paper-box .paper-box-text { font-size: .97em; }
+.pub-authors { font-size: .9em; }
+.research-papers { font-size: .9em; }
+.pub-tag { font-size: .8em; }
+.paper-box--text-only .paper-box-text { width: 100%; max-width: 100%; padding-left: 0; }
+@media (max-width: 767px) {
+    .page__content { font-size: 16px; }
+}

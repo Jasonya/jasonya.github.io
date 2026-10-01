@@ -58,6 +58,20 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 
 Selected papers from my research. [View all publications ↓](#-full-publication-list) · \* Equal contribution.
 
+<div class="paper-box paper-box--text-only">
+<div class="paper-box-text" markdown="1">
+
+[Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](https://arxiv.org/abs/2608.15008)
+
+<span class="pub-tag">NeurIPS 2026 (ED Track)</span>
+
+**Wei-Chieh Huang**, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan
+
+[Paper](https://arxiv.org/abs/2608.15008) · [Citation details](#pub-huang2026harnessmemory)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
