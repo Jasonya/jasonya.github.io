@@ -10,7 +10,9 @@ redirect_from:
 
 <div class='anchor' id='about-me'></div>
 
-I am a Ph.D. student in Computer Science in the [BDSC lab](https://bdsc-uic.github.io/) at the University of Illinois Chicago (UIC), advised by Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ), with expected graduation in **May 2028**. My research focuses on **agent memory and lifelong personalization**, **interactive agent evaluation**, **agentic deep research**, and **human-agent collaboration**. I am currently an **Applied Scientist Intern at Amazon Quick**, building multi-agent software generation systems for sandbox environment creation.
+I am a **Ph.D. student in Computer Science at the University of Illinois Chicago**, advised by Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) in the [BDSC lab](https://bdsc-uic.github.io/). Expected graduation: **May 2028**.
+
+My research focuses on **agent memory**, **interactive evaluation**, **deep research**, and **human–agent collaboration**. I am currently an **Applied Scientist Intern at Amazon Quick**, building multi-agent software generation systems for sandbox environment creation.
 
 [Download my CV (PDF)](/files/Wei-Chieh-Huang-CV.pdf)
 
@@ -18,23 +20,30 @@ I am a Ph.D. student in Computer Science in the [BDSC lab](https://bdsc-uic.gith
 
 <h1 id="-research-interests">🔬 Research Interests</h1>
 
-- **Agentic Memory & Lifelong Personalization**: Memory substrates, context engineering, retrieval policies, self-evolving memory, long-context reasoning, and cross-domain user modeling
+- **Agentic Memory & Lifelong Personalization**: Memory and retrieval for long-horizon agents, self-evolving skills, and lifelong personalization.
   <span class="research-papers">Related work: [Harness the Memory](#pub-huang2026harnessmemory), [Memory Survey](#pub-huang2025rethink), [MemoryCD](#pub-wz2026memory), [MemAudit](#pub-ma2026memprobe), [HyperSkill](#pub-xu2026hyperskill)</span>
-- **Agent Evaluation & Interactive Benchmarking**: Long-horizon trajectories, user simulation, human participation, interruptibility, mid-task steering, and diagnostic evaluation
+- **Agent Evaluation & Interactive Benchmarking**: Benchmarks for long-horizon tasks, human participation, interruption, and mid-task steering.
   <span class="research-papers">Related work: [JARVIS-Bench](#pub-zhang2026jarvisbench), [HAS-Bench](#pub-wu2026hasbench), [InterruptBench](#pub-zou2026whenusers), [RECODE-H](#pub-miao2025recode)</span>
-- **Agentic Deep Research, Tool Use & RL**: Web search, agentic RAG, long-horizon reasoning, reinforcement learning, self-evolving skills, verifier-guided optimization, and safety guardrails
+- **Agentic Deep Research, Tool Use & RL**: Search and reasoning agents, agentic RAG, reinforcement learning, and multi-stage safety guardrails.
   <span class="research-papers">Related work: [DeepResearchGuard](#pub-huang2025deepresearchguard), [Deep Research Survey](#pub-zhang2025deep), [RAG Survey](#pub-li2025towards), [CoEvoSkills](#pub-zhang2026evoskills), [Data Synthesis Survey](#pub-zhang2026datasynth), [Action Bottleneck](#pub-he2026action)</span>
-- **Human–Agent Collaboration & Trustworthy Systems**: Human-in-the-loop feedback, multi-agent debate, heterogeneous coordination, interaction protocols, and personality-aware safety
+- **Human–Agent Collaboration & Trustworthy Systems**: Human feedback, multi-agent debate and coordination, and trustworthy, personality-aware interaction.
   <span class="research-papers">Related work: [MADIAVE](#pub-huang2025madiave), [Human–Agent Survey](#pub-zoullm), [Autonomous Driving Survey](#pub-wu2025multi), [Collaborative Intelligence](#pub-zou2025call), [PSG-Agent](#pub-wu2025psg), [RECODE-H](#pub-miao2025recode), [XBridge](#pub-yang2026xbridge)</span>
 
 <h1 id="-news">🔥 News</h1>
 
 <div class="news-list" markdown="1">
 
-- <span class="news-date">2026.09</span><span class="news-body">Joined **Amazon Quick** as an **Applied Scientist Intern**, working on multi-agent software generation, sandbox environments, and self-improving agent workflows.</span>
+- <span class="news-date">2026.09</span><span class="news-body">Joined **Amazon Quick** as an **Applied Scientist Intern**.</span>
 - <span class="news-date">2026.09</span><span class="news-body">**Harness the Memory** and **JARVIS-Bench** accepted to **NeurIPS 2026 (ED Track)**; **XBridge** accepted to **NeurIPS 2026**.</span>
+- <span class="news-date">2026.08</span><span class="news-body">Our **Agent Memory Survey** accepted to **TMLR 2026**, with **Survey Certification**.</span>
 
-- <span class="news-date">2026.08</span><span class="news-body">"A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents" accepted to **TMLR**, with **Survey Certification**.</span>
+</div>
+
+<details class="earlier-news" markdown="1">
+<summary>Earlier news</summary>
+
+<div class="news-list" markdown="1">
+
 - <span class="news-date">2026.05</span><span class="news-body">"LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" accepted to ACL 2026 Findings.</span>
 - <span class="news-date">2026.04</span><span class="news-body">"Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" accepted to ACL 2026 Main.</span>
 - <span class="news-date">2026.01</span><span class="news-body">"MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" accepted to EACL 2026 Findings.</span>
@@ -42,16 +51,24 @@ I am a Ph.D. student in Computer Science in the [BDSC lab](https://bdsc-uic.gith
 - <span class="news-date">2026.01</span><span class="news-body">Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</span>
 
 </div>
+</details>
 
 
 <h1 id="-selected-publications">📝 Selected Publications</h1>
+
+Selected papers from my research. [View all publications ↓](#-full-publication-list) · \* Equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents](https://openreview.net/forum?id=XycbogUAeJ)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 **Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu
+
+</details>
 
 <span class="pub-honor">🏆 Survey Certification</span>
 
@@ -65,7 +82,12 @@ I am a Ph.D. student in Computer Science in the [BDSC lab](https://bdsc-uic.gith
 [Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
 for Safety](https://aclanthology.org/2026.acl-long.2010/)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 **Wei-Chieh Huang**, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
+
+</details>
 
 </div>
 </div>
@@ -84,7 +106,12 @@ for Safety](https://aclanthology.org/2026.acl-long.2010/)
 
 [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://aclanthology.org/2026.findings-acl.1811/)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
+
+</details>
 
 [![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 </div>
@@ -95,7 +122,12 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 
 [A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu
+
+</details>
 
 </div>
 </div>
@@ -105,7 +137,12 @@ Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<su
 
 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648/)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
+
+</details>
 
 [![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 </div>
@@ -116,7 +153,12 @@ Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chi
 
 [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
 
+<details class="selected-authors" markdown="1">
+<summary>Authors · including Wei-Chieh Huang</summary>
+
 Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
+
+</details>
 
 [![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
 </div>

@@ -426,3 +426,18 @@ body { background: #e9eef4; }
     body, .page__inner-wrap { background: white; }
     .page__inner-wrap { border: 0; padding: 0; }
 }
+
+/* Keep supporting details available without interrupting the reading flow. */
+.earlier-news { margin-top: .7em; }
+.earlier-news > summary, .selected-authors > summary {
+    cursor: pointer;
+    color: #486687;
+    font-size: .85em;
+    width: fit-content;
+}
+.earlier-news[open] > summary { margin-bottom: .7em; }
+.selected-authors { margin: .65em 0; }
+.selected-authors[open] > summary { margin-bottom: .5em; }
+.selected-authors p { color: #647184; font-size: .93em; }
+.paper-box-text > p:first-child { margin-bottom: .7em; }
+@media print { .selected-authors > p { display: block; } }
