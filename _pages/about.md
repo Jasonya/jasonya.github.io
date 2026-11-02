@@ -11,7 +11,7 @@ redirect_from:
 
 <header class="intro" id="about-me">
   <div>
-    <h1 class="name" id="wei-chieh-huang">Wei-Chieh Huang</h1>
+    <h1 class="name" id="wei-chieh-huang">Wei-Chieh Huang<span class="zh" lang="zh-Hant">黃偉杰</span></h1>
     <p>I am a Ph.D. student in Computer Science at <a href="https://www.uic.edu/"><img class="logo" src="{{ '/images/profile-icons/uic.png' | relative_url }}" alt="">the University of Illinois Chicago</a>, advised by Professor <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> in the <a href="https://bdsc-uic.github.io/">BDSC lab</a>. I am currently an Applied Scientist Intern at <span class="nowrap"><a href="https://www.amazon.science/"><img class="logo" src="{{ '/images/profile-icons/amazon.png' | relative_url }}" alt="">Amazon</a> Quick</span>, building multi-agent software generation systems for sandbox environment creation.</p>
     <p>My research focuses on agent memory, interactive evaluation, deep research, and human–agent collaboration.</p>
     <p>Expected graduation: May 2028. I am actively looking for Research Internship opportunities in Summer 2027. Feel free to reach out!</p>
