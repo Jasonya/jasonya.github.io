@@ -7,8 +7,8 @@
       <div class="paper-authors">{{ paper.authors | markdownify }}</div>
       <p class="paper-meta">
         <span class="paper-venue">{{ paper.venue }}</span>
-        {% if paper.honor %}<span class="paper-honor">{{ paper.honor }}</span>{% endif %}
-        <span class="paper-links">(<a href="{{ paper.url }}">paper</a>{% if paper.code %} / <a href="{{ paper.code }}">code</a>{% endif %}{% if paper.figure %} / <a href="{{ paper.figure | relative_url }}" aria-label="View figure for {{ paper.title | escape }}">figure</a>{% endif %}{% if paper.citation %} / <a href="{{ paper.citation }}">citation details</a>{% endif %})</span>
+        {% if paper.honor %}<span class="paper-honor">{% include icon.html name="award" %} {{ paper.honor }}</span>{% endif %}
+        <span class="paper-links">(<a href="{{ paper.url }}">{% include icon.html name="file" %} paper</a>{% if paper.code %} / <a href="{{ paper.code }}">{% include icon.html name="code" %} code</a>{% endif %}{% if paper.figure %} / <a href="{{ paper.figure | relative_url }}" aria-label="View figure for {{ paper.title | escape }}">{% include icon.html name="image" %} figure</a>{% endif %}{% if paper.citation %} / <a href="{{ paper.citation }}">{% include icon.html name="quote" %} citation details</a>{% endif %})</span>
       </p>
     </div>
   </article>

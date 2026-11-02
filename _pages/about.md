@@ -26,8 +26,8 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
   <a class="profile-orcid" href="{{ site.author.orcid }}" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
   <a class="profile-cv" href="{{ '/files/Wei-Chieh-Huang-CV.pdf' | relative_url }}" aria-label="Download CV (PDF)" title="Download CV (PDF)">CV</a>
 </nav>
-<p class="profile-email">Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><span aria-hidden="true"> · </span>Chicago, IL</p>
-<p class="internship-note">I am looking for <strong>Research Internship</strong> opportunities in <strong>Summer 2027</strong>. Feel free to reach out!</p>
+<p class="profile-email"><span class="profile-contact-item">{% include icon.html name="mail" %}<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></span><span class="profile-contact-item">{% include icon.html name="location" %}Chicago, IL</span></p>
+<p class="internship-note">{% include icon.html name="briefcase" %} I am looking for <strong>Research Internship</strong> opportunities in <strong>Summer 2027</strong>. Feel free to reach out!</p>
 
 </div>
 <figure class="profile-portrait">
@@ -36,7 +36,7 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 </figure>
 </header>
 
-<h2 id="-news">News</h2>
+<h2 id="-news">{% include icon.html name="news" %}News</h2>
 
 <div class="news-list" markdown="1">
 
@@ -61,13 +61,13 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 </details>
 
 
-<h2 id="-selected-publications">Selected Papers <a class="section-link" href="#-full-publication-list">full publication list</a></h2>
+<h2 id="-selected-publications">{% include icon.html name="star" %}Selected Papers <a class="section-link" href="#-full-publication-list">full publication list</a></h2>
 
 <p class="section-note">* Equal contribution.</p>
 
 {% include selected-publications.html %}
 
-<h2 id="-research-interests">Research Interests</h2>
+<h2 id="-research-interests">{% include icon.html name="research" %}Research Interests</h2>
 
 - **Agentic Memory & Lifelong Personalization**: Memory and retrieval for long-horizon agents, self-evolving skills, and lifelong personalization.
   <span class="research-papers">Related work: [Harness the Memory](#pub-huang2026harnessmemory), [Memory Survey](#pub-huang2025rethink), [MemoryCD](#pub-wz2026memory), [MemAudit](#pub-ma2026memprobe), [HyperSkill](#pub-xu2026hyperskill)</span>
@@ -78,7 +78,7 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 - **Human–Agent Collaboration & Trustworthy Systems**: Human feedback, multi-agent debate and coordination, and trustworthy, personality-aware interaction.
   <span class="research-papers">Related work: [MADIAVE](#pub-huang2025madiave), [Human–Agent Survey](#pub-zoullm), [Autonomous Driving Survey](#pub-wu2025multi), [Collaborative Intelligence](#pub-zou2025call), [PSG-Agent](#pub-wu2025psg), [RECODE-H](#pub-miao2025recode), [XBridge](#pub-yang2026xbridge)</span>
 
-<h2 id="-full-publication-list">All Publications</h2>
+<h2 id="-full-publication-list">{% include icon.html name="books" %}All Publications</h2>
 
 See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile. **\* Equal contribution.**
 
@@ -95,7 +95,7 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
 <div class="pub-item" id="pub-huang2025rethink">
   <a class="pub-title" href="https://openreview.net/forum?id=XycbogUAeJ">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a>
   <div class="pub-authors"><b>Wei-Chieh Huang</b><sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i></div>
-  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">Survey Certification</span></div>
+  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">{% include icon.html name="award" %} Survey Certification</span></div>
 </div>
 
 <div class="pub-item" id="pub-huang2025deepresearchguard">
@@ -260,12 +260,12 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
 
 </div>
 
-<h2 id="-educations">Education</h2>
+<h2 id="-educations">{% include icon.html name="education" %}Education</h2>
 - *2024.08–Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US. Expected graduation: **May 2028**.
 - *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
 - *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan.
 
-<h2 id="-work-experience">Work Experience</h2>
+<h2 id="-work-experience">{% include icon.html name="briefcase" %}Work Experience</h2>
 - **Amazon — Amazon Quick** — Applied Scientist Intern, Seattle, WA. *Sep. 2026–Present*
   - Build an end-to-end multi-agent software generation system for Amazon Quick, integrating task planning, code synthesis, tool orchestration, and execution to automate sandbox environment creation.
   - Optimize tool selection and invocation, agent memory and retrieval, multi-agent communication topology, execution harnesses, and loop engineering through self-improving workflows and recursive self-improvement (RSI).
@@ -273,6 +273,6 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
   - Built an automatic multimodal document-verification pipeline that fuses textual information and visual patterns via a BERT and CNN fusion model, achieving 98% overall accuracy for insurance customer verification.
   - Designed and deployed an underwriting ML pipeline to detect potential insurance fraud, reducing the overall loss ratio by 3.5% and generating projected annual savings of $60M.
 
-<h2 id="-service">Professional Service</h2>
+<h2 id="-service">{% include icon.html name="community" %}Professional Service</h2>
 
 **Program Committee / Reviewer:** ACL 2026, ACL 2026 Industry Track, ICML 2026, NeurIPS 2026.

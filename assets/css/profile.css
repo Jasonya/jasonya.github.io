@@ -25,6 +25,8 @@ strong, b { font-weight: 600; }
 p { margin: 0 0 12px; }
 img { max-width: 100%; height: auto; }
 sup { font-size: .7em; line-height: 0; }
+.ui-icon { display: inline-block; width: 1em; height: 1em; vertical-align: -.15em; flex-shrink: 0; }
+h2 > .ui-icon { width: 20px; height: 20px; margin-right: 9px; color: var(--link); vertical-align: -.18em; }
 .profile-page { max-width: 1000px; margin: 0 auto; padding: 64px 24px 48px; }
 .profile-intro { display: grid; grid-template-columns: minmax(0, 1fr) 220px; align-items: start; gap: 44px; }
 .profile-bio { min-width: 0; }
@@ -41,9 +43,12 @@ h1 { margin: 0 0 20px; color: var(--heading); font-size: 30px; font-weight: 600;
 .profile-linkedin { color: #327aa6; }
 .profile-orcid { color: #8aad37; }
 .profile-links .profile-cv { border: 1.5px solid #91a3b5; border-radius: 4px; min-height: 27px; padding: 3px; font-size: 12px; font-weight: 600; }
-.profile-email { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.profile-email { display: flex; flex-wrap: wrap; gap: 4px 16px; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.profile-contact-item { display: inline-flex; align-items: center; gap: 6px; min-width: 0; max-width: 100%; }
+.profile-contact-item .ui-icon { width: 14px; height: 14px; color: var(--link); }
 .profile-email a { color: inherit; }
 .internship-note { color: var(--link); font-size: 14px; margin-top: 15px; margin-bottom: 0; }
+.internship-note > .ui-icon { margin-right: 5px; }
 h2 { position: relative; margin: 44px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--rule); color: var(--heading); font-size: 19px; line-height: 1.5; font-weight: 600; letter-spacing: -.2px; }
 h2::after { content: ""; position: absolute; left: 0; bottom: -1px; width: 36px; height: 2px; background: var(--accent); }
 .section-link { margin-left: 12px; font-size: 12.5px; font-weight: 400; letter-spacing: 0; white-space: nowrap; }
@@ -68,6 +73,8 @@ h2::after { content: ""; position: absolute; left: 0; bottom: -1px; width: 36px;
 .paper-meta, .pub-meta { font-size: 14px; line-height: 1.6; margin: 5px 0 0; }
 .paper-venue { font-style: italic; }
 .paper-links { white-space: normal; }
+.paper-links a { display: inline-flex; align-items: baseline; gap: 3px; white-space: nowrap; }
+.paper-links .ui-icon { align-self: center; width: 13px; height: 13px; }
 .paper-honor, .pub-tag--award { display: inline-block; margin: 0 5px; padding: 0 6px; color: var(--link); background: #edf5fb; border-radius: 3px; font-size: 12px; font-style: normal; font-weight: 500; }
 .profile-page > ul { padding-left: 20px; margin: 0; }
 .profile-page > ul > li { margin-bottom: 12px; }
