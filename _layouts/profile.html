@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/profile.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <main id="main" class="profile-page">
+      {{ content }}
+      <footer class="profile-footer">
+        <span>{{ site.author.name }} · University of Illinois Chicago</span>
+        <a href="#about-me">Back to top ↑</a>
+      </footer>
+    </main>
+  </body>
+</html>

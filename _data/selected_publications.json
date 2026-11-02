@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+    "url": "https://arxiv.org/abs/2608.15008",
+    "authors": "**Wei-Chieh Huang**, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan",
+    "venue": "NeurIPS 2026 (ED Track)",
+    "year": "2026",
+    "figure": "/images/harness_memory.png",
+    "code": null,
+    "citation": "#pub-huang2026harnessmemory",
+    "honor": null
+  },
+  {
+    "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+    "url": "https://openreview.net/forum?id=XycbogUAeJ",
+    "authors": "**Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu",
+    "venue": "TMLR 2026",
+    "year": "2026",
+    "figure": "/images/agent_memory.png",
+    "code": "https://github.com/AgentMemoryWorld/Awesome-Agent-Memory",
+    "citation": null,
+    "honor": "Survey Certification"
+  },
+  {
+    "title": "Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety",
+    "url": "https://aclanthology.org/2026.acl-long.2010/",
+    "authors": "**Wei-Chieh Huang**, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu",
+    "venue": "ACL 2026 Main",
+    "year": "2026",
+    "figure": "/images/deepresearchguard.png",
+    "code": null,
+    "citation": null,
+    "honor": null
+  },
+  {
+    "title": "MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction",
+    "url": "https://aclanthology.org/2026.findings-eacl.159/",
+    "authors": "**Wei-Chieh Huang**, Cornelia Caragea",
+    "venue": "EACL 2026 Findings",
+    "year": "2026",
+    "figure": "/images/madiave_main.png",
+    "code": null,
+    "citation": null,
+    "honor": null
+  },
+  {
+    "title": "LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey",
+    "url": "https://aclanthology.org/2026.findings-acl.1811/",
+    "authors": "Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu",
+    "venue": "ACL 2026 Findings",
+    "year": "2026",
+    "figure": "/images/main_figurev5.jpg",
+    "code": "https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
+    "citation": null,
+    "honor": null
+  },
+  {
+    "title": "A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy",
+    "url": "https://arxiv.org/abs/2506.09420",
+    "authors": "Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "figure": "/images/human_agent_systems.png",
+    "code": null,
+    "citation": null,
+    "honor": null
+  },
+  {
+    "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs",
+    "url": "https://aclanthology.org/2025.findings-emnlp.648/",
+    "authors": "Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu",
+    "venue": "EMNLP 2025",
+    "year": "2025",
+    "figure": "/images/intro2.png",
+    "code": "https://github.com/DavidZWZ/Awesome-RAG-Reasoning",
+    "citation": null,
+    "honor": null
+  },
+  {
+    "title": "From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents",
+    "url": "https://arxiv.org/abs/2506.18959",
+    "authors": "Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu",
+    "venue": "Under Review, 2026",
+    "year": "2026",
+    "figure": "/images/Framework_final.png",
+    "code": "https://github.com/DavidZWZ/Awesome-Deep-Research",
+    "citation": null,
+    "honor": null
+  }
+]

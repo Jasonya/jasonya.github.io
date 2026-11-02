@@ -1,24 +1,73 @@
 ---
+layout: profile
 permalink: /
 title: ""
-excerpt: ""
-author_profile: true
+description: "Wei-Chieh Huang is a Ph.D. student at the University of Illinois Chicago working on agent memory, interactive evaluation, deep research, and human–agent collaboration."
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class='anchor' id='about-me'></div>
+<header class="profile-intro" id="about-me">
+<div class="profile-bio" markdown="1">
 
-I am a **Ph.D. student in Computer Science at the University of Illinois Chicago**, advised by Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) in the [BDSC lab](https://bdsc-uic.github.io/). Expected graduation: **May 2028**.
+# Wei-Chieh Huang
 
-My research focuses on **agent memory**, **interactive evaluation**, **deep research**, and **human–agent collaboration**. I am currently an **Applied Scientist Intern at Amazon Quick**, building multi-agent software generation systems for sandbox environment creation.
+I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), advised by Professor [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) in the [BDSC lab](https://bdsc-uic.github.io/). Expected graduation: May 2028.
 
-[Download my CV (PDF)](/files/Wei-Chieh-Huang-CV.pdf)
+My research focuses on **agent memory**, **interactive evaluation**, **deep research**, and **human–agent collaboration**. I am currently an Applied Scientist Intern at **Amazon Quick**, building multi-agent software generation systems for sandbox environment creation.
 
-<div class="hp-callout">🔎 I am actively looking for <b>Research Internship</b> opportunities in <b>Summer 2027</b>. Feel free to reach out!</div>
+<nav class="profile-links" aria-label="Academic and professional profiles">
+  <a href="{{ site.author.googlescholar }}" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>
+  <a href="{{ site.author.dblp }}" aria-label="DBLP" title="DBLP"><i class="ai ai-dblp" aria-hidden="true"></i></a>
+  <a class="profile-github" href="https://github.com/{{ site.author.github }}" aria-label="GitHub" title="GitHub"><span class="brand-icon" aria-hidden="true">&#xf09b;</span></a>
+  <a class="profile-linkedin" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/" aria-label="LinkedIn" title="LinkedIn"><span class="brand-icon" aria-hidden="true">&#xf08c;</span></a>
+  <a class="profile-orcid" href="{{ site.author.orcid }}" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
+  <a class="profile-cv" href="{{ '/files/Wei-Chieh-Huang-CV.pdf' | relative_url }}" aria-label="Download CV (PDF)" title="Download CV (PDF)">CV</a>
+</nav>
+<p class="profile-email">Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><span aria-hidden="true"> · </span>Chicago, IL</p>
+<p class="internship-note">I am looking for <strong>Research Internship</strong> opportunities in <strong>Summer 2027</strong>. Feel free to reach out!</p>
 
-<h1 id="-research-interests">🔬 Research Interests</h1>
+</div>
+<figure class="profile-portrait">
+  <img src="{{ '/images/jason.jpeg' | relative_url }}" alt="Wei-Chieh Huang" width="220" height="293" fetchpriority="high">
+  <figcaption>University of Illinois Chicago</figcaption>
+</figure>
+</header>
+
+<h2 id="-news">News</h2>
+
+<div class="news-list" markdown="1">
+
+- <span class="news-date">2026 Sep</span><span class="news-body">Joined **Amazon Quick** as an **Applied Scientist Intern**.</span>
+- <span class="news-date">2026 Sep</span><span class="news-body">**Harness the Memory** and **JARVIS-Bench** accepted to **NeurIPS 2026 (ED Track)**; **XBridge** accepted to **NeurIPS 2026**.</span>
+- <span class="news-date">2026 Aug</span><span class="news-body">Our **Agent Memory Survey** accepted to **TMLR 2026**, with **Survey Certification**.</span>
+
+</div>
+
+<details class="earlier-news" markdown="1">
+<summary>Earlier news</summary>
+
+<div class="news-list" markdown="1">
+
+- <span class="news-date">2026 May</span><span class="news-body">"LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" accepted to ACL 2026 Findings.</span>
+- <span class="news-date">2026 Apr</span><span class="news-body">"Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" accepted to ACL 2026 Main.</span>
+- <span class="news-date">2026 Jan</span><span class="news-body">"MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" accepted to EACL 2026 Findings.</span>
+- <span class="news-date">2026 Jan</span><span class="news-body">"RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback" accepted to ICLR 2026.</span>
+- <span class="news-date">2026 Jan</span><span class="news-body">Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</span>
+
+</div>
+</details>
+
+
+<h2 id="-selected-publications">Selected Papers <a class="section-link" href="#-full-publication-list">full publication list</a></h2>
+
+<p class="section-note">* Equal contribution.</p>
+
+{% include selected-publications.html %}
+
+<h2 id="-research-interests">Research Interests</h2>
 
 - **Agentic Memory & Lifelong Personalization**: Memory and retrieval for long-horizon agents, self-evolving skills, and lifelong personalization.
   <span class="research-papers">Related work: [Harness the Memory](#pub-huang2026harnessmemory), [Memory Survey](#pub-huang2025rethink), [MemoryCD](#pub-wz2026memory), [MemAudit](#pub-ma2026memprobe), [HyperSkill](#pub-xu2026hyperskill)</span>
@@ -29,154 +78,7 @@ My research focuses on **agent memory**, **interactive evaluation**, **deep rese
 - **Human–Agent Collaboration & Trustworthy Systems**: Human feedback, multi-agent debate and coordination, and trustworthy, personality-aware interaction.
   <span class="research-papers">Related work: [MADIAVE](#pub-huang2025madiave), [Human–Agent Survey](#pub-zoullm), [Autonomous Driving Survey](#pub-wu2025multi), [Collaborative Intelligence](#pub-zou2025call), [PSG-Agent](#pub-wu2025psg), [RECODE-H](#pub-miao2025recode), [XBridge](#pub-yang2026xbridge)</span>
 
-<h1 id="-news">🔥 News</h1>
-
-<div class="news-list" markdown="1">
-
-- <span class="news-date">2026.09</span><span class="news-body">Joined **Amazon Quick** as an **Applied Scientist Intern**.</span>
-- <span class="news-date">2026.09</span><span class="news-body">**Harness the Memory** and **JARVIS-Bench** accepted to **NeurIPS 2026 (ED Track)**; **XBridge** accepted to **NeurIPS 2026**.</span>
-- <span class="news-date">2026.08</span><span class="news-body">Our **Agent Memory Survey** accepted to **TMLR 2026**, with **Survey Certification**.</span>
-
-</div>
-
-<details class="earlier-news" markdown="1">
-<summary>Earlier news</summary>
-
-<div class="news-list" markdown="1">
-
-- <span class="news-date">2026.05</span><span class="news-body">"LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey" accepted to ACL 2026 Findings.</span>
-- <span class="news-date">2026.04</span><span class="news-body">"Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety" accepted to ACL 2026 Main.</span>
-- <span class="news-date">2026.01</span><span class="news-body">"MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction" accepted to EACL 2026 Findings.</span>
-- <span class="news-date">2026.01</span><span class="news-body">"RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback" accepted to ICLR 2026.</span>
-- <span class="news-date">2026.01</span><span class="news-body">Reviewing for ICML 2026, ACL 2026, and ACL 2026 Industry Track.</span>
-
-</div>
-</details>
-
-
-<h1 id="-selected-publications">📝 Selected Publications</h1>
-
-Selected papers from my research. [View all publications ↓](#-full-publication-list) · \* Equal contribution.
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2026 (ED Track)</div><a href="/images/harness_memory.png" aria-label="View full-size Harness the Memory evaluation overview"><img src="/images/harness_memory.png" alt="Harness the Memory evaluation overview: external and internal memory substrates, unified actions and models, and user-centric and agent-centric benchmarks" loading="lazy" decoding="async"></a></div></div>
-<div class="paper-box-text" markdown="1">
-
-[Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](https://arxiv.org/abs/2608.15008)
-
-**Wei-Chieh Huang**, Weizhi Zhang, Yuchen Wu, Yankai Chen, …, Philip S. Yu, Xue Liu, Aylin Caliskan
-
-[Paper](https://arxiv.org/abs/2608.15008) · [Citation details](#pub-huang2026harnessmemory)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/agent_memory.png' alt="Taxonomy of agent memory in three columns: memory substrate, memory cognitive mechanism, and memory subject" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents](https://openreview.net/forum?id=XycbogUAeJ)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-**Wei-Chieh Huang**<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, ..., Jiawei Han, Philip S. Yu, Kai Shu
-
-</details>
-
-<span class="pub-honor">🏆 Survey Certification</span>
-
-[![GitHub stars for Awesome-Agent-Memory](https://img.shields.io/github/stars/AgentMemoryWorld/Awesome-Agent-Memory?style=social&label=GitHub+Stars)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/deepresearchguard.png' alt="Deep research pipeline annotated with the general stages of input, plan, search, and output, and the guardrail stages added at each" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails
-for Safety](https://aclanthology.org/2026.acl-long.2010/)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-**Wei-Chieh Huang**, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
-
-</details>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026 Findings</div><img src='images/madiave_main.png' alt="Multi-agent debate pipeline for implicit attribute value extraction, repeating selection and debate over N rounds" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction](https://aclanthology.org/2026.findings-eacl.159/)
-
-**Wei-Chieh Huang**, Cornelia Caragea
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/main_figurev5.jpg' alt="Overview of LLM-based human-agent systems, showing where human feedback enters the collaboration loop" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://aclanthology.org/2026.findings-acl.1811/)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Hanrong Zhang, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu
-
-</details>
-
-[![GitHub stars for Awesome-Human-Agent-Collaboration-Interaction-Systems](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social&label=GitHub+Stars)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">Under Review, 2026</div><img src='images/human_agent_systems.png' alt="Side-by-side comparison of autonomous agent systems and human-agent systems" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy](https://arxiv.org/abs/2506.09420)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-Henry Peng Zou<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yaozu Wu<sup>&#42;</sup>, Chunyu Miao, Dongyuan Li, Aiwei Liu, Yue Zhou, Yankai Chen, Weizhi Zhang, Yangning Li, Liancheng Fang, Renhe Jiang, Philip S. Yu
-
-</details>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/intro2.png' alt="" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://aclanthology.org/2025.findings-emnlp.648/)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-Yangning Li<sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yuyao Yang, **Wei-Chieh Huang**, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu
-
-</details>
-
-[![GitHub stars for Awesome-RAG-Reasoning](https://img.shields.io/github/stars/DavidZWZ/Awesome-RAG-Reasoning?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge--preprint">Under Review, 2026</div><img src='images/Framework_final.png' alt="" loading="lazy" decoding="async"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)
-
-<details class="selected-authors" markdown="1">
-<summary>Authors · including Wei-Chieh Huang</summary>
-
-Weizhi Zhang<sup>&#42;</sup>, Yangning Li<sup>&#42;</sup>, **Wei-Chieh Huang**<sup>&#42;</sup>, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu
-
-</details>
-
-[![GitHub stars for Awesome-Deep-Research](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research?style=social&label=GitHub+Stars)](https://github.com/DavidZWZ/Awesome-Deep-Research)
-</div>
-</div>
-
-<h1 id="-full-publication-list">📚 All Publications</h1>
+<h2 id="-full-publication-list">All Publications</h2>
 
 See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd8AAAAJ&hl=en) profile. **\* Equal contribution.**
 
@@ -193,7 +95,7 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
 <div class="pub-item" id="pub-huang2025rethink">
   <a class="pub-title" href="https://openreview.net/forum?id=XycbogUAeJ">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a>
   <div class="pub-authors"><b>Wei-Chieh Huang</b><sup>&#42;</sup>, Weizhi Zhang<sup>&#42;</sup>, Yueqing Liang<sup>&#42;</sup>, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, <i>et al.</i></div>
-  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">🏆 Survey Certification</span></div>
+  <div class="pub-meta"><span class="pub-tag">TMLR 2026</span><span class="pub-tag pub-tag--award">Survey Certification</span></div>
 </div>
 
 <div class="pub-item" id="pub-huang2025deepresearchguard">
@@ -358,12 +260,12 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
 
 </div>
 
-<h1 id="-educations">📖 Education</h1>
+<h2 id="-educations">Education</h2>
 - *2024.08–Present*, Ph.D. in Computer Science, University of Illinois Chicago (UIC), US. Expected graduation: **May 2028**.
 - *2020.09 - 2022.12*, M.S. in Systems Engineering, Cornell University, US.
 - *2013.09 - 2017.06*, B.S. in Chemical Engineering, National Taiwan University of Science and Technology (NTUST), Taiwan.
 
-<h1 id="-work-experience">💼 Work Experience</h1>
+<h2 id="-work-experience">Work Experience</h2>
 - **Amazon — Amazon Quick** — Applied Scientist Intern, Seattle, WA. *Sep. 2026–Present*
   - Build an end-to-end multi-agent software generation system for Amazon Quick, integrating task planning, code synthesis, tool orchestration, and execution to automate sandbox environment creation.
   - Optimize tool selection and invocation, agent memory and retrieval, multi-agent communication topology, execution harnesses, and loop engineering through self-improving workflows and recursive self-improvement (RSI).
@@ -371,6 +273,6 @@ See also my [Google Scholar](https://scholar.google.com.tw/citations?user=OQY7yd
   - Built an automatic multimodal document-verification pipeline that fuses textual information and visual patterns via a BERT and CNN fusion model, achieving 98% overall accuracy for insurance customer verification.
   - Designed and deployed an underwriting ML pipeline to detect potential insurance fraud, reducing the overall loss ratio by 3.5% and generating projected annual savings of $60M.
 
-<h1 id="-service">🤝 Professional Service</h1>
+<h2 id="-service">Professional Service</h2>
 
 **Program Committee / Reviewer:** ACL 2026, ACL 2026 Industry Track, ICML 2026, NeurIPS 2026.
