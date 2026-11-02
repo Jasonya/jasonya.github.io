@@ -1,16 +1,16 @@
-<div class="selected-papers">
+<div class="rows papers selected-papers">
   {% for paper in site.data.selected_publications %}
-  <article class="selected-paper">
-    <div class="paper-date">{{ paper.year }}</div>
-    <div class="paper-content">
-      <h3 class="paper-title"><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
-      <div class="paper-authors">{{ paper.authors | markdownify }}</div>
-      <p class="paper-meta">
-        <span class="paper-venue">{{ paper.venue }}</span>
-        {% if paper.honor %}<span class="paper-honor">{% include icon.html name="award" %} {{ paper.honor }}</span>{% endif %}
-        <span class="paper-links">(<a href="{{ paper.url }}">{% include icon.html name="file" %} paper</a>{% if paper.code %} / <a href="{{ paper.code }}">{% include icon.html name="code" %} code</a>{% endif %}{% if paper.figure %} / <a href="{{ paper.figure | relative_url }}" aria-label="View figure for {{ paper.title | escape }}">{% include icon.html name="image" %} figure</a>{% endif %}{% if paper.citation %} / <a href="{{ paper.citation }}">{% include icon.html name="quote" %} citation details</a>{% endif %})</span>
-      </p>
+  <div class="row paper">
+    <span class="date">{{ paper.year }}</span>
+    <div>
+      <a class="title" href="{{ paper.url }}">{{ paper.title }}</a>
+      <div class="authors">{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+      <div class="meta">
+        <span class="venue">{{ paper.venue }}</span>{% if paper.honor %}<span class="badge">{{ paper.honor }}</span>{% endif %}
+        <span class="res">(<a href="{{ paper.url }}">paper</a>{% if paper.code %} / <a href="{{ paper.code }}">code</a>{% endif %}{% if paper.figure %} / <a href="{{ paper.figure | relative_url }}" aria-label="View figure for {{ paper.title | escape }}">figure</a>{% endif %}{% if paper.citation %} / <a href="{{ paper.citation }}">citation details</a>{% endif %})</span>
+        {% if paper.code %}<a class="stars" href="{{ paper.code }}" data-repo="{{ paper.code | remove: 'https://github.com/' }}" title="GitHub repository" aria-label="GitHub repository for {{ paper.title | escape }}"><span class="brand-icon" aria-hidden="true">&#xf09b;</span><span class="star" aria-hidden="true">★</span><span class="count"></span></a>{% endif %}
+      </div>
     </div>
-  </article>
+  </div>
   {% endfor %}
 </div>
